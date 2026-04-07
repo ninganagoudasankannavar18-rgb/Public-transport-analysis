@@ -1,0 +1,1000 @@
+TripID,Date,From_Station,To_Station,Distance_km,Fare,Cost_per_passenger,Passengers,Ticket_Type,Remarks
+59771,08-05-2022,Inderlok,Kashmere Gate,12.94,77.99,18.27,13,Smart Card,maintenance
+21363,12-01-2023,Model Town,Dilshad Garden,2.33,35.89,83.71,15,Tourist Card,maintenance
+127325,13-07-2023,   Kashmere Gate   ,Netaji Subhash Place,5.56,64.35,43.7,9,Single,off-peak
+140510,10-11-2022,Chandni Chowk,Hauz Khas,4.02,144.13,14.98,27,,maintenance
+144298,06-11-2022,Rajiv Chowk,Kalkaji Mandir,9.66,104.96,83.84,23,Single,off-peak
+96371,10-07-2024,Kalkaji Mandir,Shivaji Park,3.91,29.2,30.64,22,Tourist Card,
+49743,02-09-2022,Mandi House,Jasola Vihar,1.49,175.32,33.45,14,Tourist Card,peak
+47390,07-12-2023,Mandi House,Central Secretariat,7.38,167.59,50.69,18,Tourist Card,festival
+58379,05-05-2024,AIIMS,Chandni Chowk,2.57,125.25,81.71,24,Single,weekend
+69048,05-07-2022,New Delhi,Jasola Vihar,7.58,151.39,37.76,19,Tourist Card,peak
+41981,19-03-2023,New Delhi,Model Town,1.04,114.49,107.94,16,Smart Card,festival
+88783,28-07-2022,Rajiv Chowk,Kirti Nagar,5.84,66.97,114.12,24,Tourist Card,weekend
+70772,16-02-2023,Rajiv Chowk,New Delhi,2.71,157.05,93.1,21,Tourist Card,weekend
+20217,06-04-2024,Rajiv Chowk,Laxmi Nagar,1.54,162.06,64.45,11,Tourist Card,festival
+80725,11-09-2024,Rajouri Garden,Barakhamba Road,5.14,59.77,81.08,26,Smart Card,maintenance
+96907,17-07-2022,Rajiv Chowk,Kalkaji Mandir,1.51,136.28,110.94,21,Tourist Card,off-peak
+81422,06-05-2024,Rajiv Chowk,Janakpuri West,4.76,82.87,33.01,22,Smart Card,maintenance
+109510,06-02-2023,  Laxmi Nagar ,Netaji Subhash Place,2.54,178.92,109.15,26,Smart Card,
+1877,09-10-2023,Noida City Centre,Punjabi Bagh,5.54,31.78,68.13,15,Tourist Card,peak
+46384,04-08-2024,Rajouri Garden,Hauz Khas,2.98,195.57,50.13,19,Single,maintenance
+7488,18-11-2024,New Delhi,Kalkaji Mandir,13.19,38.99,57.61,15,Smart Card,maintenance
+18049,03-02-2022,Model Town,Kalkaji Mandir,3.09,60.74,63.6,25,Tourist Card,festival
+29282,20-10-2022,Noida City Centre,Mandi House,6.2,78.87,36.76,25,Tourist Card,maintenance
+51011,09-10-2024,Janakpuri West,Kalkaji Mandir,1,67.8,53.12,25,Smart Card,
+76505,11-11-2022,Noida City Centre,Chandni Chowk,4,14.2,118.29,18,Single,festival
+134481,11-12-2023,Mandi House,Barakhamba Road,9.7,184.96,58.18,28,Tourist Card,maintenance
+100165,10-08-2023,Central Secretariat,Shivaji Park,16.02,136.13,24.24,11,Tourist Card,weekend
+25706,12-08-2023,Rajiv Chowk,Old Delhi,8.1,44.74,21.62,16,Tourist Card,
+96399,01-06-2024,Janakpuri West,Shivaji Park,1.63,42.97,32.26,20,Tourist Card,maintenance
+33117,10-05-2022,Inderlok,Punjabi Bagh,18.98,126.38,71.95,15,Smart Card,weekend
+924,25-05-2024,Rajiv Chowk,Kirti Nagar,1.51,124.59,6.49,18,Tourist Card,weekend
+74297,09-01-2022,Dilshad Garden,Chandni Chowk,1.27,162.81,26.6,16,Tourist Card,peak
+103669,31-10-2023,Rajiv Chowk,Noida City Centre,9.82,176.13,43.22,17,Tourist Card,festival
+100419,08-06-2022, Hauz Khas   ,Pragati Maidan,0.88,135.12,21.57,15,Tourist Card,
+99126,27-05-2024,New Delhi,Central Secretariat,9.24,185.42,22.51,21,Single,peak
+39798,19-02-2024,Rajiv Chowk,Inderlok,1.02,147.91,82.67,20,Tourist Card,peak
+110749,12-09-2023,New Delhi,Hauz Khas,14.67,182.91,96.78,17,Single,
+29475,26-06-2023,Mandi House,Laxmi Nagar,0.6,76.47,106.59,16,Smart Card,
+62005,18-01-2023,Rajiv Chowk,Janakpuri West,6.78,161.02,60.57,23,Single,off-peak
+56936,30-07-2024,Rajiv Chowk,Hauz Khas,0.99,26.95,56.5,13,Tourist Card,off-peak
+24370,27-09-2023,Jasola Vihar,Shivaji Park,1.77,182.84,19.75,16,Tourist Card,festival
+37241,29-09-2024,   new delhi   ,Model Town,4.17,161.38,57.22,19,Tourist Card,off-peak
+49307,31-07-2023,AIIMS,Shivaji Park,4.63,72.01,62.15,18,Single,weekend
+90612,24-01-2024,Laxmi Nagar,Barakhamba Road,5.65,150.46,69.77,20,Smart Card,festival
+107702,07-06-2023,New Delhi,Janakpuri West,1.63,52.35,24.42,20,Tourist Card,
+89673,01-04-2024,Rajiv Chowk,Pragati Maidan,5.71,34.65,111.5,15,Single,festival
+95329,29-05-2023,Noida City Centre,Jasola Vihar,1.06,92.35,66.23,23,Smart Card,
+32514,05-02-2023,   Kashmere Gate ,Pragati Maidan,9.06,108.55,42.8,26,Tourist Card,maintenance
+137403,22-09-2024,Laxmi Nagar,Jasola Vihar,6.31,57.52,73.83,27,Smart Card,festival
+108661,19-05-2024,Mandi House,Janakpuri West,3.5,169.1,39.27,19,Single,festival
+117163,16-04-2023, Rajiv Chowk  ,Kashmere Gate,3.01,51.86,56.08,24,Smart Card,festival
+34128,25-05-2022,Mandi House,Dilshad Garden,0.89,122.14,50.9,11,Smart Card,festival
+75599,07-01-2023,Dilshad Garden,Jasola Vihar,6.86,121.6,65.33,14,Single,
+94661,15-06-2023,Jasola Vihar,Janakpuri West,5.72,179.63,73.29,22,Tourist Card,maintenance
+15667,19-08-2023,Hauz Khas,Rajiv Chowk,10.82,152.38,111.36,21,Single,festival
+102641,08-01-2024,Rajiv Chowk,Jasola Vihar,1.4,145.89,81.22,19,Single,weekend
+72836,21-01-2023,Rajiv Chowk,Barakhamba Road,8.08,50.11,79.86,16,Tourist Card,festival
+58111,05-03-2023,Noida City Centre,Central Secretariat,5.83,131.49,60,17,Tourist Card,festival
+41679,30-06-2022,Kashmere Gate,Barakhamba Road,11.1,190.69,101.44,24,Single,off-peak
+111764,24-06-2023,Laxmi Nagar,Mandi House,9.7,70.24,47.63,23,Tourist Card,peak
+95771,01-02-2023,Noida City Centre,Rajouri Garden,0.91,17.99,19.3,13,Tourist Card,weekend
+142843,30-12-2023,Kalkaji Mandir,Janakpuri West,3.42,168.58,30.6,24,Single,
+82450,18-07-2024,Central Secretariat,Kirti Nagar,13.75,29.47,62.05,20,Tourist Card,weekend
+113687,04-04-2024,Mandi House,Old Delhi,7.13,111.57,49.8,31,Single,peak
+42247,25-09-2023,Mandi House,Rajiv Chowk,0.96,167.81,93.28,13,Smart Card,peak
+84726,09-02-2024,Noida City Centre,Pragati Maidan,3.23,157.11,107.32,26,Tourist Card,weekend
+27727,03-11-2022,Jasola Vihar,Rajiv Chowk,2.83,15.82,62.86,18,Smart Card,maintenance
+122224,27-11-2024,Rajiv Chowk,Pragati Maidan,1.24,169.88,80.35,17,Tourist Card,maintenance
+40010,05-12-2022,New Delhi,Noida City Centre,0.63,131.06,104.38,14,Smart Card,maintenance
+66017,25-07-2022,Mandi House,Netaji Subhash Place,4.15,38.87,112.43,22,Tourist Card,weekend
+50464,07-06-2024,Noida City Centre,Janakpuri West,4.31,87.49,7.81,17,Tourist Card,
+29065,07-03-2023,New Delhi,Netaji Subhash Place,2.16,90.06,42.49,12,Smart Card,weekend
+34966,09-11-2024,Kalkaji Mandir,Jasola Vihar,1.26,129.01,103.45,17,Smart Card,off-peak
+16623,09-04-2023,Model Town,Punjabi Bagh,4.8,90.49,7.86,26,Smart Card,maintenance
+119291,01-12-2022,Central Secretariat,Kalkaji Mandir,8.38,170.24,89.74,26,Tourist Card,peak
+86409,14-12-2024,Model Town,AIIMS,0.72,192.6,105.61,20,Single,festival
+124009,27-12-2024,Noida City Centre,Kashmere Gate,3.31,185.75,8.16,22,Single,
+85461,21-10-2022,   AIIMS  ,Laxmi Nagar,5.85,40.3,58.28,24,Tourist Card,
+34258,13-02-2023,   Janakpuri West ,Rajouri Garden,3.29,43.08,90.13,21,Tourist Card,
+50692,31-01-2022,Noida City Centre,Punjabi Bagh,1.1,158.45,17.02,14,Tourist Card,maintenance
+10673,13-08-2022,Rajiv Chowk,Chandni Chowk,5.38,199.83,6.75,28,Smart Card,maintenance
+144167,05-11-2022,AIIMS,Kirti Nagar,5.47,132.79,12.09,22,Single,
+7322,06-08-2023,Dilshad Garden,Kalkaji Mandir,2.03,128.58,97.65,22,Tourist Card,peak
+15111,18-04-2024,Chandni Chowk,Janakpuri West,12.13,183.45,101.06,22,Tourist Card,festival
+129697,19-09-2024,Rajiv Chowk,Jasola Vihar,5.11,127.95,49.57,13,Tourist Card,maintenance
+83565,09-02-2022,Inderlok,Chandni Chowk,2.42,49.64,68.54,19,Single,festival
+119867,27-02-2023,Rajiv Chowk,Rajiv Chowk,8.16,98.78,89.39,26,Tourist Card,off-peak
+133770,06-03-2024,Kashmere Gate,Shivaji Park,4.01,196,11.6,21,Smart Card,
+146286,26-11-2024,Hauz Khas,Kalkaji Mandir,10.64,127.99,109.86,22,Single,off-peak
+84222,07-04-2023, Kashmere Gate  ,Old Delhi,5.98,90.37,79.09,20,Tourist Card,festival
+118,24-07-2022,AIIMS,Kashmere Gate,3.46,61.14,92.04,21,Tourist Card,peak
+71202,28-01-2023, kashmere gate  ,Shivaji Park,3.27,84.95,47.51,21,Single,weekend
+84950,06-06-2022,Rajiv Chowk,Model Town,0.55,169.45,28.18,16,Tourist Card,peak
+52889,31-01-2024, central secretariat   ,New Delhi,26.05,14.59,66.41,22,Smart Card,off-peak
+13859,29-07-2023,Chandni Chowk,AIIMS,1.06,193.26,112.8,22,,peak
+136207,12-06-2022,Rajouri Garden,Chandni Chowk,4.04,95.71,22.34,16,,off-peak
+22935,08-11-2023,Noida City Centre,Rajouri Garden,5.4,134.64,28.36,23,Tourist Card,festival
+133891,24-01-2023,Noida City Centre,Punjabi Bagh,9.01,40.85,85.3,22,Tourist Card,off-peak
+56198,17-12-2023,Kashmere Gate,Kirti Nagar,1.22,193.09,29.88,15,Single,off-peak
+130665,11-10-2022,  Jasola Vihar ,Chandni Chowk,11.94,124.48,75.62,16,Single,
+87519,27-03-2022, Janakpuri West   ,Kirti Nagar,7.51,130.89,75.05,18,Smart Card,off-peak
+16603,19-01-2024,Rajiv Chowk,Dilshad Garden,9.78,84.59,86.89,12,Tourist Card,maintenance
+105029,28-09-2024,Mandi House,Mandi House,7,150.89,79.82,22,Tourist Card,
+13217,10-12-2022,  Rajiv Chowk ,Kashmere Gate,9.08,138.15,38.38,16,Smart Card,peak
+38883,14-05-2024,Rajiv Chowk,Laxmi Nagar,11.04,150.69,28.81,21,Smart Card,peak
+73884,15-10-2022,Rajiv Chowk,Kirti Nagar,8.22,44.63,96.72,16,Single,festival
+17654,03-07-2024,Rajiv Chowk,Noida City Centre,0.65,168.45,99.67,20,Tourist Card,peak
+142822,18-11-2023,Rajiv Chowk,Kalkaji Mandir,4.18,135.7,6.28,20,Tourist Card,weekend
+84865,20-01-2024,Rajouri Garden,Dilshad Garden,1.76,158.65,100.31,14,Tourist Card,weekend
+117264,23-11-2023,Kalkaji Mandir,Old Delhi,8.12,148.49,90.07,20,Single,peak
+34411,18-11-2023,Kashmere Gate,Rajiv Chowk,1.67,190.07,100.65,13,Tourist Card,
+117837,19-07-2024,   Kalkaji Mandir  ,Janakpuri West,6.65,20.69,111.66,18,Smart Card,maintenance
+7417,30-11-2022,Laxmi Nagar,Kashmere Gate,10.69,53.44,22.08,18,,
+17710,21-04-2022,Mandi House,Mandi House,9.16,175.99,48.65,8,Single,off-peak
+136253,13-04-2022,   Rajiv Chowk   ,Inderlok,4.01,27.29,45.06,18,Smart Card,weekend
+26211,12-05-2024,Mandi House,Noida City Centre,12.21,55.87,68.75,16,Tourist Card,
+39345,25-03-2022, New Delhi  ,Old Delhi,3.21,113.92,107,19,Tourist Card,off-peak
+116700,29-04-2023,New Delhi,Kirti Nagar,3.81,35.54,13.54,20,Tourist Card,weekend
+95048,18-09-2023,Noida City Centre,Rajouri Garden,3.47,48.37,77.96,15,Single,peak
+111110,28-05-2024,Rajiv Chowk,Netaji Subhash Place,1.74,24.46,7.08,26,Single,off-peak
+51157,07-03-2024,   Inderlok ,Jasola Vihar,10,168.33,98.68,32,Tourist Card,peak
+129331,30-05-2023,Chandni Chowk,Kashmere Gate,1.94,50.15,27.09,21,Tourist Card,
+67234,16-05-2022,Noida City Centre,Dilshad Garden,2.61,21.52,29.14,34,Tourist Card,weekend
+115062,11-01-2023,Noida City Centre,Rajouri Garden,2.49,160.42,29.97,18,Tourist Card,off-peak
+17170,24-10-2022,Rajiv Chowk,Hauz Khas,1.05,137.78,118.61,26,Smart Card,
+125745,08-02-2024,Noida City Centre,Shivaji Park,1.07,27.16,75.13,25,Tourist Card,
+46673,20-01-2022,Noida City Centre,Shivaji Park,6.86,88.46,43.89,22,Tourist Card,
+149918,14-07-2022,Inderlok,Old Delhi,6.23,88.8,82.85,18,Tourist Card,off-peak
+102439,27-05-2024,Mandi House,Kalkaji Mandir,3.73,163.86,82.39,27,Tourist Card,festival
+4891,13-12-2022, AIIMS ,Old Delhi,3.64,49.79,59.36,24,Tourist Card,maintenance
+146811,30-01-2023,Dilshad Garden,New Delhi,1.07,153.46,69.44,20,Single,
+10141,04-02-2022, LAXMI NAGAR  ,Dilshad Garden,2.7,59.42,89.7,22,Smart Card,
+111238,09-04-2024,Noida City Centre,Jasola Vihar,3.97,187.59,49.74,14,Tourist Card,festival
+117339,24-09-2024,Jasola Vihar,Janakpuri West,1.53,54.81,83.85,15,Single,maintenance
+88469,27-11-2024,Hauz Khas,Chandni Chowk,5.52,108.79,22.51,16,Single,maintenance
+116628,12-06-2024,Janakpuri West,Barakhamba Road,5.89,163.85,33.32,21,Tourist Card,festival
+113106,11-09-2023,Noida City Centre,Rajiv Chowk,9.09,183.39,109.81,12,Tourist Card,weekend
+57839,24-08-2022,Rajiv Chowk,Old Delhi,8.44,130.53,107.3,15,Single,
+42458,14-04-2023,Noida City Centre,Janakpuri West,1.55,142.31,20.99,19,Smart Card,maintenance
+57005,04-11-2024,Dilshad Garden,Jasola Vihar,4.53,198.09,28.94,16,Single,peak
+27965,31-05-2023,Model Town,Rajiv Chowk,3.21,104.8,74.85,33,Single,maintenance
+141962,15-01-2023,   Rajouri Garden  ,Kirti Nagar,3.03,104.92,51.99,22,Smart Card,maintenance
+29910,08-09-2022,Inderlok,Hauz Khas,6.14,158.34,48.04,21,Tourist Card,maintenance
+125078,26-02-2023,Noida City Centre,Mandi House,4.11,120.18,101.74,27,Tourist Card,
+51213,20-10-2024,Dilshad Garden,New Delhi,1.95,129.57,28.72,20,Tourist Card,off-peak
+109729,16-08-2024,   central secretariat  ,Rajouri Garden,3.75,196.18,55.38,23,Tourist Card,festival
+63781,24-05-2023,Mandi House,Chandni Chowk,1.75,29.18,98.17,35,Smart Card,maintenance
+8342,31-08-2023,Noida City Centre,Chandni Chowk,0.7,172.88,101.13,21,Single,peak
+134181,10-02-2023,Dilshad Garden,Mandi House,6.14,130.87,117.2,19,Smart Card,maintenance
+140419,04-08-2024,Mandi House,Kalkaji Mandir,1.58,145.99,83.36,18,Tourist Card,weekend
+95547,13-06-2024,Inderlok,AIIMS,6.83,134.82,82.44,13,Tourist Card,off-peak
+119333,16-07-2022,Mandi House,Pragati Maidan,2.91,140.06,115.4,23,Smart Card,peak
+18608,07-07-2022,Mandi House,Mandi House,1.72,109.35,104.19,22,Tourist Card,off-peak
+148774,26-02-2024,   hauz khas  ,Kashmere Gate,8.42,40.76,111.74,23,Tourist Card,peak
+31588,06-08-2024,Central Secretariat,Janakpuri West,1.95,11.31,68.85,13,Tourist Card,off-peak
+49188,21-04-2023,AIIMS,Old Delhi,9.54,63.1,85.24,17,Tourist Card,peak
+24258,03-04-2022,Mandi House,Rajiv Chowk,2.31,197.57,17.36,31,Single,festival
+82973,24-10-2023,Jasola Vihar,Laxmi Nagar,3,136.88,52.3,11,Single,festival
+140114,19-01-2024,Model Town,Mandi House,6.73,131.8,28.14,27,Tourist Card,peak
+41592,18-10-2022,Mandi House,Noida City Centre,9.87,46.64,72.97,19,Tourist Card,weekend
+25246,23-09-2022,Central Secretariat,Noida City Centre,1.84,154.91,87.39,27,Tourist Card,
+8396,10-02-2024,   Rajouri Garden ,New Delhi,0.82,116,35.6,20,Tourist Card,off-peak
+29319,23-01-2022,New Delhi,AIIMS,16.21,130.25,59.1,21,Tourist Card,
+7704,25-01-2023,Rajiv Chowk,Noida City Centre,1.57,44.91,49.02,20,Smart Card,
+69358,18-03-2024,Chandni Chowk,Old Delhi,1.19,176.93,92.41,17,Tourist Card,peak
+19079,19-04-2022,Model Town,Barakhamba Road,2.65,185.74,108.86,12,Tourist Card,festival
+55709,30-10-2023,Kashmere Gate,Noida City Centre,5.53,65.96,49.46,18,Tourist Card,
+147422,17-05-2023,Inderlok,Jasola Vihar,8,113.12,93.73,25,Tourist Card,maintenance
+104159,10-04-2022,Inderlok,Old Delhi,1.01,168.06,36.3,19,Tourist Card,maintenance
+108569,31-01-2023, Inderlok  ,Chandni Chowk,3.89,188.44,76.68,13,Single,weekend
+8960,23-07-2024,Mandi House,Shivaji Park,3.67,199.77,110.02,11,Tourist Card,festival
+73454,05-08-2023,New Delhi,Pragati Maidan,1.75,14.71,6.05,27,Tourist Card,off-peak
+126236,04-11-2024,New Delhi,Punjabi Bagh,3.99,77.26,46.13,24,Smart Card,maintenance
+36738,10-12-2022,New Delhi,Rajiv Chowk,2.32,143.86,62.86,26,Tourist Card,
+19708,24-05-2023,Noida City Centre,Rajouri Garden,2.55,139.78,68.43,25,Tourist Card,off-peak
+89106,07-08-2024,Rajiv Chowk,Mandi House,6.73,77.8,119.23,23,Tourist Card,maintenance
+67266,27-11-2024,  kashmere gate   ,Central Secretariat,8.3,22,31.74,15,Single,festival
+24644,14-10-2023,Laxmi Nagar,Old Delhi,6.7,113.67,13.38,20,Tourist Card,weekend
+20183,25-09-2024,   HAUZ KHAS  ,Chandni Chowk,2.24,187.22,77.76,23,Smart Card,peak
+127042,06-05-2023,Noida City Centre,New Delhi,1.02,176.7,81.95,18,Tourist Card,off-peak
+69080,14-02-2024,Kashmere Gate,Janakpuri West,1.57,88.17,54.33,12,Tourist Card,weekend
+31814,26-07-2022,Kalkaji Mandir,Shivaji Park,6.21,67.18,42.22,16,,festival
+30991,03-08-2022, rajouri garden ,Punjabi Bagh,1.66,181.81,18.7,27,Tourist Card,maintenance
+143577,18-02-2022, Chandni Chowk   ,Kalkaji Mandir,1.66,157.5,38.6,25,Smart Card,festival
+133635,01-05-2023,Kalkaji Mandir,Model Town,8.97,193.41,119.55,29,Smart Card,off-peak
+261,05-11-2023,  CHANDNI CHOWK   ,Dilshad Garden,1.92,60.77,18.57,22,Single,peak
+61986,14-05-2022,Jasola Vihar,Kashmere Gate,22.54,133.67,64.49,14,Tourist Card,peak
+54330,04-10-2022,Rajiv Chowk,Noida City Centre,4.18,50.85,81.8,21,Tourist Card,off-peak
+136099,18-12-2023,AIIMS,Netaji Subhash Place,1.89,42.41,11.93,15,Single,
+58031,06-08-2023,Dilshad Garden,New Delhi,2.77,96.33,8.12,17,Smart Card,festival
+116582,01-10-2024,Rajiv Chowk,Noida City Centre,1.56,33.08,35.8,18,Smart Card,peak
+65758,18-12-2024,Rajiv Chowk,Rajiv Chowk,4.79,130.59,8.56,18,Single,peak
+83358,23-11-2022,Noida City Centre,Hauz Khas,1.33,78.02,44.46,23,Tourist Card,weekend
+18540,11-03-2024,Mandi House,Rajouri Garden,4.09,51.07,111.28,19,Smart Card,
+39224,31-07-2023,Rajiv Chowk,Shivaji Park,7.51,83.51,46.56,21,Single,
+62550,27-01-2022,  CHANDNI CHOWK  ,Shivaji Park,4.24,141.52,47.02,16,Smart Card,maintenance
+149344,22-07-2023,Hauz Khas,Noida City Centre,30.92,179.64,14.46,14,Tourist Card,peak
+51818,27-05-2022,Rajiv Chowk,Kalkaji Mandir,2.56,188.27,58.73,16,Smart Card,maintenance
+115987,26-03-2023,   hauz khas   ,Punjabi Bagh,6.46,184.2,59.13,26,Single,festival
+41259,02-01-2024,  Noida City Centre  ,Old Delhi,2.34,27.29,6.2,21,Tourist Card,peak
+110040,13-12-2024,Jasola Vihar,Rajiv Chowk,3.21,179.93,24.82,15,Tourist Card,weekend
+115290,13-05-2023,Rajiv Chowk,Dilshad Garden,3.37,39.23,119.46,21,Single,maintenance
+120499,30-10-2023,Laxmi Nagar,Pragati Maidan,3.73,132.18,55.27,31,Single,
+99639,24-05-2024,Mandi House,Janakpuri West,1.28,69.96,92.06,21,Single,festival
+5955,19-02-2022,Mandi House,Shivaji Park,3.97,161.95,33.54,20,Tourist Card,festival
+148288,12-12-2023,  KALKAJI MANDIR ,Kirti Nagar,0.6,133.71,64.38,18,Tourist Card,off-peak
+10396,27-03-2024,AIIMS,Dilshad Garden,5.82,159.58,79.9,20,Smart Card,off-peak
+107132,19-06-2022,Dilshad Garden,Inderlok,10.4,81.16,111.58,22,Smart Card,
+99483,23-05-2022,Noida City Centre,Hauz Khas,0.69,55.91,73.62,26,Tourist Card,maintenance
+131103,09-09-2024,Kashmere Gate,Kalkaji Mandir,5.1,170.34,85.25,26,Tourist Card,
+42167,11-12-2023,Rajiv Chowk,Punjabi Bagh,10.63,161.55,62.45,15,Tourist Card,weekend
+104940,12-02-2022,Rajiv Chowk,Old Delhi,1.11,53.71,19.29,19,Tourist Card,festival
+48838,01-06-2023,Rajiv Chowk,Netaji Subhash Place,18.14,138.25,29.1,27,Tourist Card,maintenance
+98162,10-11-2024,Kalkaji Mandir,Rajiv Chowk,2.63,149.45,34.83,18,Tourist Card,festival
+118819,12-08-2023,Mandi House,Janakpuri West,1.87,69.04,80.23,15,Tourist Card,weekend
+4879,01-02-2023,   Central Secretariat  ,Mandi House,1.68,27.26,113.37,12,Tourist Card,
+105105,15-06-2024,Model Town,Janakpuri West,0.59,99.2,57.06,25,Tourist Card,off-peak
+136069,02-07-2023,Noida City Centre,Janakpuri West,6.87,196.4,77.59,9,Tourist Card,
+97012,22-06-2024,Kashmere Gate,Laxmi Nagar,4.26,134.74,96.19,23,Tourist Card,weekend
+43824,30-03-2022, AIIMS ,New Delhi,4.76,78.24,23.9,22,Single,
+91959,17-11-2023,   Model Town  ,Mandi House,2.44,153.57,81.96,19,Single,
+131783,04-05-2023,Kalkaji Mandir,Kashmere Gate,2.08,34.21,8.22,21,Smart Card,off-peak
+127083,02-03-2023,   Rajiv Chowk   ,Shivaji Park,8.14,100.59,76.54,19,Smart Card,off-peak
+40207,13-06-2022,Rajouri Garden,Jasola Vihar,11.46,178.71,55.61,15,Single,maintenance
+22620,19-10-2022,Inderlok,Hauz Khas,8.52,114.21,10.14,20,Smart Card,weekend
+121046,28-10-2024,Rajiv Chowk,Mandi House,0.74,120.81,23.29,21,Tourist Card,
+114676,28-08-2023,Mandi House,Shivaji Park,7.76,179.39,47.53,22,Tourist Card,festival
+50069,13-03-2023, jasola vihar  ,Old Delhi,2.49,174.43,97.98,16,Tourist Card,off-peak
+120940,19-08-2024,Noida City Centre,Hauz Khas,18.36,110.38,30.15,17,Smart Card,off-peak
+116662,02-07-2024,Noida City Centre,Mandi House,2.42,107.93,41.57,20,Tourist Card,festival
+141702,28-03-2024,  Noida City Centre ,AIIMS,2.41,61.98,99.4,18,Tourist Card,
+91980,16-01-2022,New Delhi,Model Town,0.6,116.45,65.35,26,Single,
+112845,21-08-2023,Central Secretariat,Laxmi Nagar,2.33,155.74,79.16,23,Tourist Card,festival
+75103,13-06-2022,   Model Town ,AIIMS,3.69,58.54,84.22,25,Tourist Card,festival
+72218,14-11-2022,AIIMS,Netaji Subhash Place,1.07,58.54,43.73,19,Single,maintenance
+103668,22-07-2022,  Noida City Centre  ,Laxmi Nagar,1.44,132.93,70.4,26,Tourist Card,off-peak
+130711,11-03-2023,New Delhi,Laxmi Nagar,1.52,60.21,90.1,20,Tourist Card,
+65094,31-03-2024,   aiims   ,Janakpuri West,3.42,19.46,24.13,21,Single,
+64068,12-11-2024,Janakpuri West,Central Secretariat,5.08,107.23,38.56,26,Smart Card,maintenance
+123515,13-07-2022,Rajiv Chowk,New Delhi,3.65,165.46,59.89,21,Smart Card,peak
+116222,11-08-2024,Rajiv Chowk,Kirti Nagar,2.89,115.58,8.26,20,Tourist Card,weekend
+100595,16-11-2023,Inderlok,Kashmere Gate,15.32,155.04,53.8,20,Tourist Card,
+96163,22-12-2023,Rajiv Chowk,Janakpuri West,0.61,35.53,43.1,13,Smart Card,maintenance
+51514,01-12-2022,  Inderlok  ,Rajiv Chowk,1.72,136.78,69.74,19,Smart Card,festival
+136066,08-04-2023,  AIIMS   ,Pragati Maidan,9.69,114.05,42.43,15,Single,weekend
+70330,25-10-2022,Noida City Centre,Kashmere Gate,0.65,112.39,59.14,27,Tourist Card,weekend
+80236,31-03-2024,  Rajiv Chowk   ,Pragati Maidan,0.57,184.21,63.09,18,Smart Card,weekend
+60891,30-06-2022,Rajiv Chowk,AIIMS,15.58,131.32,98.52,27,Smart Card,weekend
+50189,21-01-2023,Noida City Centre,Kalkaji Mandir,0.95,197.32,113.63,24,Tourist Card,weekend
+18350,19-10-2022,Hauz Khas,Kirti Nagar,7.4,22.05,84.97,20,Tourist Card,weekend
+75232,15-11-2024,Inderlok,Laxmi Nagar,1.13,133.3,67.12,29,Smart Card,festival
+92384,18-01-2024,Chandni Chowk,Rajouri Garden,4.73,122.86,15.26,31,Single,maintenance
+142622,25-02-2022,Rajiv Chowk,Mandi House,2.16,177.34,30.33,17,Smart Card,weekend
+58080,27-06-2024,Mandi House,Netaji Subhash Place,10.8,162.8,83.37,26,Tourist Card,peak
+379,10-06-2024,Kashmere Gate,Hauz Khas,3.32,156.73,100.23,21,Tourist Card,festival
+42028,23-05-2022,   Kashmere Gate  ,Central Secretariat,2.76,14.62,57.53,24,Tourist Card,maintenance
+97216,19-12-2023,Model Town,Kashmere Gate,5.71,141.74,92.61,17,Tourist Card,off-peak
+105730,05-08-2023,Central Secretariat,New Delhi,5.9,135.6,9.17,17,Smart Card,weekend
+77483,22-09-2023,Mandi House,Rajouri Garden,3.61,90.34,20.17,18,Tourist Card,festival
+9460,10-01-2023,Jasola Vihar,Noida City Centre,0.52,23.1,76.05,26,Tourist Card,peak
+1967,22-07-2022,Rajiv Chowk,Kashmere Gate,8.57,20.92,75.65,15,Smart Card,maintenance
+135292,14-01-2023, MODEL TOWN  ,Kalkaji Mandir,8.39,66.57,91.89,21,Tourist Card,maintenance
+102721,12-09-2023,Rajiv Chowk,Rajouri Garden,1.14,63.87,80.86,21,Single,off-peak
+74833,10-01-2023,Rajiv Chowk,Chandni Chowk,3.7,183.45,19.87,21,Single,
+126478,28-11-2022,New Delhi,Pragati Maidan,1.03,118.65,114.07,17,Smart Card,
+65363,14-01-2023,Mandi House,AIIMS,2.18,110.75,27.18,21,Single,weekend
+31600,16-02-2024,Jasola Vihar,Barakhamba Road,9.62,70.49,79.55,18,Single,
+88376,04-02-2024,Central Secretariat,Kashmere Gate,5.42,159.5,40.5,27,Tourist Card,weekend
+51910,29-06-2023,Rajiv Chowk,Chandni Chowk,6.04,83.24,29.15,16,Smart Card,off-peak
+89821,06-07-2024,Kashmere Gate,Pragati Maidan,1.16,128.72,11.15,19,Tourist Card,
+24012,15-06-2024,Dilshad Garden,Barakhamba Road,11.6,32.7,97.34,20,Single,maintenance
+75577,31-01-2024,Noida City Centre,Kashmere Gate,14.99,102.65,60.77,18,Tourist Card,
+99095,08-08-2023,Noida City Centre,Rajouri Garden,1.21,43.25,97.9,26,Single,weekend
+104668,26-07-2024, Laxmi Nagar ,Pragati Maidan,5.98,59.6,113.12,19,Tourist Card,peak
+85148,15-12-2023,Noida City Centre,Rajiv Chowk,1.33,66.15,54.59,18,Tourist Card,
+124522,03-02-2023,Mandi House,Kalkaji Mandir,6.61,82.49,26.87,17,Smart Card,off-peak
+13229,30-04-2022,Inderlok,Jasola Vihar,1.82,140.22,37.69,21,Smart Card,weekend
+11134,14-01-2024,Rajiv Chowk,Hauz Khas,7.9,121.88,64.81,16,Tourist Card,weekend
+7493,04-01-2023,Central Secretariat,Mandi House,2.85,84.19,7.6,21,Tourist Card,maintenance
+134583,29-04-2023,Noida City Centre,Shivaji Park,2.57,59.82,108.36,20,Single,weekend
+68555,25-07-2023, Kashmere Gate   ,Kalkaji Mandir,1.32,134.81,44.77,26,Smart Card,festival
+66842,25-06-2023,New Delhi,Mandi House,1.16,118.42,9.3,18,Smart Card,peak
+52387,21-11-2024, Rajiv Chowk   ,Chandni Chowk,2.98,68.19,91.4,25,Single,weekend
+10694,31-07-2022,Model Town,Noida City Centre,2.85,101.81,102.37,13,Tourist Card,
+132901,22-03-2023, Central Secretariat  ,Dilshad Garden,4.5,11.51,85.92,18,Single,peak
+21004,22-03-2022,   KALKAJI MANDIR ,Hauz Khas,6.9,26.74,110.76,25,Tourist Card,weekend
+139451,09-11-2024,Model Town,Shivaji Park,2.52,149.06,50.16,16,Smart Card,weekend
+68111,28-11-2023,Central Secretariat,Model Town,3.06,195.46,106.57,25,Tourist Card,peak
+24340,29-11-2023,Jasola Vihar,Laxmi Nagar,15.44,47.26,83.44,17,Smart Card,weekend
+37984,11-06-2022,Model Town,Janakpuri West,5.54,141.87,104.76,20,Smart Card,
+127074,16-12-2024,Mandi House,Rajouri Garden,5.88,24.52,98.4,16,Tourist Card,peak
+135637,26-02-2023,New Delhi,Model Town,5.54,170,63.94,23,Tourist Card,maintenance
+103830,11-06-2024,Hauz Khas,Dilshad Garden,8.6,176.77,95.56,23,Smart Card,peak
+57138,09-07-2023,Rajouri Garden,Noida City Centre,1.81,199.3,87.11,20,Single,maintenance
+30175,30-03-2023,Laxmi Nagar,Jasola Vihar,3.85,54.7,73.79,22,Smart Card,peak
+71499,01-07-2023,  LAXMI NAGAR ,Netaji Subhash Place,4,22.16,48.97,21,Single,maintenance
+950,17-10-2023,Hauz Khas,Shivaji Park,3.73,25.5,94.48,23,Tourist Card,off-peak
+29756,13-03-2023,Kalkaji Mandir,Mandi House,6.5,35.36,104.46,20,Smart Card,festival
+108996,14-05-2024,Rajiv Chowk,Janakpuri West,1.54,117.27,60.47,19,Tourist Card,off-peak
+5492,03-04-2024,Rajiv Chowk,Rajiv Chowk,8.59,23.51,72.99,22,Single,weekend
+72293,18-04-2023,   Kashmere Gate  ,Mandi House,7.78,89.61,37.12,22,Smart Card,weekend
+86836,20-06-2022,New Delhi,Kashmere Gate,4.71,48.11,92.51,20,Smart Card,off-peak
+138012,04-02-2023,Jasola Vihar,Janakpuri West,1.22,122.66,82.67,33,Smart Card,festival
+14500,10-05-2023,Model Town,Noida City Centre,1.22,76.78,113.09,15,Tourist Card,
+26204,05-05-2023,Dilshad Garden,AIIMS,12.4,80.34,92.52,15,Smart Card,off-peak
+77616,09-01-2023,Rajiv Chowk,Old Delhi,11.54,107.55,52.67,21,Tourist Card,maintenance
+24846,22-01-2023,Model Town,Laxmi Nagar,2.02,127.29,36.32,15,Tourist Card,
+59494,26-04-2024,New Delhi,Kirti Nagar,3.55,23.35,118.02,20,Tourist Card,peak
+44033,04-04-2022,Laxmi Nagar,Jasola Vihar,2.34,93.58,58.66,22,Tourist Card,weekend
+114112,08-09-2024,Rajiv Chowk,AIIMS,2.54,182.29,31.8,20,Smart Card,
+68985,17-01-2022,   rajouri garden   ,Jasola Vihar,5.56,45.64,25.23,26,Tourist Card,festival
+123139,20-11-2023,  New Delhi   ,Rajiv Chowk,1.42,188.77,60.08,20,Tourist Card,
+149912,15-06-2022,Mandi House,Punjabi Bagh,9.91,57.27,5.96,22,Tourist Card,
+148383,11-10-2023,New Delhi,Pragati Maidan,16.5,175.1,83.27,12,Tourist Card,off-peak
+76988,01-04-2022,Mandi House,New Delhi,1.6,42.38,42.24,16,Tourist Card,festival
+99913,02-06-2023,Kashmere Gate,Model Town,6.46,88.46,9.84,14,Tourist Card,
+16108,24-05-2024,AIIMS,Shivaji Park,1.95,14.12,101.66,26,Smart Card,off-peak
+9503,02-09-2023,Laxmi Nagar,Pragati Maidan,0.85,28.07,23.96,19,Tourist Card,maintenance
+10871,14-03-2022,AIIMS,Laxmi Nagar,0.51,79.8,42.05,25,Tourist Card,
+57863,12-06-2022,AIIMS,Old Delhi,17.96,102.7,98.25,29,Tourist Card,weekend
+61113,17-12-2023, Jasola Vihar   ,Shivaji Park,1.18,135.12,35.03,17,Tourist Card,festival
+40012,29-08-2023,Jasola Vihar,New Delhi,3.84,41.8,19.47,20,Tourist Card,maintenance
+20490,09-09-2022,  rajouri garden ,Old Delhi,7.09,104.63,64.88,26,Smart Card,festival
+77364,03-04-2024,Noida City Centre,Jasola Vihar,0.95,19.14,98.77,25,Tourist Card,
+5615,07-04-2023,Rajouri Garden,Old Delhi,1.18,56.3,18.15,21,Single,weekend
+71708,25-12-2023, MANDI HOUSE ,Chandni Chowk,3.05,197.42,30.25,20,Tourist Card,peak
+110430,11-08-2022,Rajiv Chowk,Laxmi Nagar,1.53,168.84,46.68,17,Tourist Card,off-peak
+66971,13-09-2023,Rajiv Chowk,Kashmere Gate,4.65,104.35,72.87,21,Smart Card,festival
+103168,18-04-2022,Rajiv Chowk,Noida City Centre,5.92,105.7,39.02,16,Tourist Card,weekend
+58394,15-08-2024,Rajiv Chowk,Jasola Vihar,1.38,111,55.94,24,Tourist Card,off-peak
+47168,18-06-2024,New Delhi,Pragati Maidan,1.02,174.97,96.34,17,Smart Card,peak
+109111,06-01-2022,Inderlok,Rajiv Chowk,0.99,87.63,22.62,19,Tourist Card,off-peak
+26380,23-03-2022,Kashmere Gate,Chandni Chowk,1.27,68.52,80.84,27,Tourist Card,festival
+62852,21-10-2023,New Delhi,Rajouri Garden,6.96,54.28,90.34,20,Tourist Card,festival
+112813,13-02-2022,Model Town,AIIMS,1.74,23.29,24.49,14,Single,
+15839,27-10-2024,Hauz Khas,Laxmi Nagar,17.63,63.55,68.93,20,Smart Card,weekend
+62517,13-07-2022,Chandni Chowk,Kalkaji Mandir,4.7,41.16,43.9,20,Tourist Card,maintenance
+98437,04-05-2022,Mandi House,Model Town,5.05,152.24,118.17,30,Tourist Card,weekend
+109545,09-04-2023,Rajouri Garden,Janakpuri West,4.01,16.07,94.45,17,Single,maintenance
+32103,30-07-2023,Chandni Chowk,Pragati Maidan,5.26,140.62,75.05,20,Single,maintenance
+28202,20-07-2023,   RAJIV CHOWK ,Pragati Maidan,5.41,72.06,29.23,19,Smart Card,off-peak
+52640,24-10-2022,AIIMS,Jasola Vihar,2.52,55.81,24.93,21,Single,peak
+86739,24-05-2024,Noida City Centre,Central Secretariat,3.68,59.52,73.14,,Smart Card,festival
+13381,02-04-2022,Inderlok,Jasola Vihar,7.6,162.97,101.15,32,Tourist Card,weekend
+20591,10-08-2023,Inderlok,Jasola Vihar,5.05,74.57,32.95,17,Smart Card,weekend
+6060,29-06-2024,Noida City Centre,Rajiv Chowk,0.85,38.62,93.89,23,Tourist Card,off-peak
+73283,06-04-2024,Janakpuri West,Rajiv Chowk,1.69,80.65,52.35,28,Single,peak
+7848,25-06-2023,  Chandni Chowk ,Rajouri Garden,2.96,115.79,22.87,19,Tourist Card,off-peak
+114103,25-09-2022,Mandi House,Kashmere Gate,11.05,70.07,13.82,17,Tourist Card,festival
+64067,15-10-2022,New Delhi,Rajiv Chowk,3.9,111.68,93.42,17,Smart Card,
+147005,24-06-2023,Model Town,Jasola Vihar,9.12,134.48,89.16,26,Tourist Card,festival
+114481,08-08-2023,Rajiv Chowk,Hauz Khas,6.03,112.43,56.8,20,Single,festival
+83910,31-05-2023,Inderlok,Noida City Centre,1.34,125.87,116.05,24,Tourist Card,maintenance
+101374,10-09-2024,  AIIMS  ,Old Delhi,13.22,106.15,118.69,19,Smart Card,maintenance
+36931,27-11-2022,Chandni Chowk,Old Delhi,5.46,149.85,44.11,20,Tourist Card,maintenance
+50489,26-01-2022,   MANDI HOUSE  ,Noida City Centre,2.49,67.48,78.76,18,,maintenance
+14469,03-10-2023,   Jasola Vihar  ,Kashmere Gate,7.81,99.34,39.94,22,Tourist Card,maintenance
+75079,30-03-2022,New Delhi,Dilshad Garden,2.92,37.14,66.56,16,Smart Card,peak
+41661,19-03-2024,Central Secretariat,New Delhi,7.3,14.86,79.17,16,Tourist Card,weekend
+51286,25-04-2024,  Mandi House ,Chandni Chowk,1.61,27.79,11.99,16,Tourist Card,maintenance
+136573,25-06-2023,Mandi House,Kashmere Gate,4.33,195.74,46.73,26,Smart Card,maintenance
+141622,13-02-2024,Rajiv Chowk,Barakhamba Road,1.75,136.02,17.64,17,Single,maintenance
+99945,26-05-2023,Rajouri Garden,Kirti Nagar,6.34,118.14,31.36,24,Tourist Card,
+73036,30-12-2023,Jasola Vihar,Netaji Subhash Place,3.33,12.62,62.93,15,Single,off-peak
+105167,12-01-2024,Hauz Khas,Rajiv Chowk,7.18,174.58,50.44,22,Tourist Card,weekend
+57281,20-10-2023,  noida city centre   ,Mandi House,3.74,43.84,91.13,16,Tourist Card,festival
+105216,02-07-2022,Noida City Centre,AIIMS,6.9,166.41,29.73,30,Single,off-peak
+101381,10-01-2024,Kashmere Gate,Rajiv Chowk,1.26,27.7,12.38,19,Tourist Card,maintenance
+115961,29-12-2024,Kashmere Gate,AIIMS,5.19,79.57,58.8,22,Tourist Card,maintenance
+3167,12-10-2024,Rajouri Garden,Janakpuri West,4.28,190.65,105.05,18,Tourist Card,festival
+39707,26-04-2022,  chandni chowk ,Rajouri Garden,2.18,182.08,101.32,22,Tourist Card,weekend
+95642,25-07-2023,Mandi House,Laxmi Nagar,10.35,100.72,116.08,16,Single,peak
+121711,29-03-2022, Rajiv Chowk  ,Inderlok,7.83,29.03,58.89,21,Smart Card,festival
+59437,23-09-2022,Laxmi Nagar,Kashmere Gate,10.65,180.13,116.59,23,Tourist Card,
+116508,10-09-2024,Rajiv Chowk,Inderlok,10.17,80.38,115.52,17,Tourist Card,peak
+34413,18-06-2022,Rajiv Chowk,AIIMS,2.98,88.64,53.86,27,Single,peak
+147041,31-10-2023,Rajiv Chowk,Pragati Maidan,0.55,46.39,50.73,30,Single,festival
+81717,22-06-2023,Noida City Centre,Netaji Subhash Place,0.6,36.32,20.63,22,Tourist Card,festival
+227,01-12-2024,Rajouri Garden,Old Delhi,4.28,103.01,33.82,19,Tourist Card,weekend
+23193,25-10-2022,AIIMS,Noida City Centre,6.62,16.1,81.13,21,Tourist Card,
+67285,03-12-2023, dilshad garden  ,Old Delhi,1.37,184.87,55.99,17,Tourist Card,maintenance
+822,06-01-2022,  laxmi nagar   ,Punjabi Bagh,0.68,104.73,39.77,16,Tourist Card,festival
+25883,26-12-2023,Noida City Centre,New Delhi,1.14,75.7,97.68,21,Tourist Card,weekend
+101069,13-01-2022, RAJIV CHOWK ,Old Delhi,1.3,199.15,64.31,24,Single,festival
+42211,24-08-2023,Rajiv Chowk,AIIMS,3.34,54.89,89.71,21,Smart Card,maintenance
+82731,25-05-2024,Mandi House,Netaji Subhash Place,4.12,61.73,29.01,28,Single,peak
+74524,03-09-2022,  Inderlok   ,Rajouri Garden,1.5,68.8,26.08,27,Tourist Card,peak
+94269,16-02-2022,Janakpuri West,New Delhi,3.83,48.53,54.62,19,Single,maintenance
+44275,18-07-2022,Noida City Centre,Model Town,5.79,117.15,68.03,25,Tourist Card,festival
+87325,09-09-2022,Noida City Centre,Hauz Khas,2.15,178.46,68.82,18,Tourist Card,maintenance
+148331,16-06-2024,Inderlok,Laxmi Nagar,2.59,164.83,18.67,20,Tourist Card,weekend
+136765,31-12-2022,Rajiv Chowk,Chandni Chowk,1.19,182.66,89.6,17,Smart Card,
+120992,06-06-2024,Mandi House,Kalkaji Mandir,1.13,59.18,118.56,21,Tourist Card,weekend
+19142,24-02-2024,Chandni Chowk,Central Secretariat,3.12,81.44,90.06,31,Tourist Card,
+119190,29-06-2023,Rajiv Chowk,Kalkaji Mandir,1.5,169.19,111.49,23,Tourist Card,peak
+148181,12-05-2024,AIIMS,Chandni Chowk,2.56,148.91,7.89,20,Tourist Card,festival
+128765,19-04-2022,Inderlok,Kirti Nagar,9.41,33.04,53.14,13,Smart Card,
+93112,23-10-2023, RAJOURI GARDEN  ,Kirti Nagar,5.41,51.54,23.18,14,Tourist Card,peak
+116461,29-06-2024,Noida City Centre,Kashmere Gate,1.98,188.29,89.27,21,Single,weekend
+127758,02-09-2022,Janakpuri West,Kalkaji Mandir,2.91,108.47,112.14,22,Single,weekend
+74828,18-01-2024,Rajiv Chowk,AIIMS,8.03,147.59,30.97,27,Tourist Card,festival
+142067,26-02-2023,Mandi House,Inderlok,7.34,103.48,83.54,12,Tourist Card,off-peak
+118239,28-09-2022,Rajiv Chowk,Rajiv Chowk,4.69,104.35,97.78,27,Single,off-peak
+90658,03-02-2022,Kashmere Gate,Jasola Vihar,1.33,40.32,67.76,23,Tourist Card,peak
+64232,30-03-2023,Central Secretariat,AIIMS,1.28,55.32,28.36,14,Single,festival
+144541,25-09-2022,Central Secretariat,Kalkaji Mandir,33.1,127.12,114.24,16,Smart Card,peak
+99294,28-01-2023,  Chandni Chowk  ,Rajiv Chowk,3.7,102.14,69.62,19,Single,off-peak
+80283,26-10-2024, Inderlok   ,Rajiv Chowk,6.53,131.28,102.52,17,Smart Card,
+147677,07-01-2023,Kashmere Gate,Central Secretariat,2.08,185.6,22.05,32,Tourist Card,off-peak
+65236,26-07-2022,Rajiv Chowk,Shivaji Park,10.65,45.34,54.6,25,Smart Card,peak
+31896,12-09-2023,Rajiv Chowk,Janakpuri West,1.91,133.97,90.46,20,Tourist Card,maintenance
+77993,16-04-2024,New Delhi,AIIMS,2.77,63.9,10.19,22,Tourist Card,
+73894,03-05-2024,New Delhi,Janakpuri West,1.93,14.89,7.83,18,Tourist Card,
+90203,10-10-2023,New Delhi,Jasola Vihar,3.63,194.51,51.93,20,Single,
+81654,10-09-2024,   Laxmi Nagar ,Punjabi Bagh,0.6,106.75,24.41,18,Smart Card,weekend
+89436,03-11-2024, Chandni Chowk  ,Netaji Subhash Place,1.02,143.94,8.43,15,Single,maintenance
+126742,13-12-2022,Rajiv Chowk,Netaji Subhash Place,2.37,16.91,94.71,16,Smart Card,off-peak
+6096,23-03-2024,Chandni Chowk,Rajiv Chowk,0.82,185.86,75.22,14,Single,weekend
+110242,17-05-2022,Inderlok,Rajouri Garden,12.36,175,36.7,21,Tourist Card,
+77183,01-09-2024,Rajiv Chowk,Model Town,1.56,166.7,97.07,15,Tourist Card,maintenance
+129825,28-04-2023,New Delhi,New Delhi,3.03,25.73,116.64,18,Tourist Card,maintenance
+65731,04-12-2023,Mandi House,Central Secretariat,1.13,141.95,95.92,27,Tourist Card,off-peak
+49333,17-04-2023,Janakpuri West,Kirti Nagar,10.66,48.15,90.66,22,Tourist Card,off-peak
+3223,02-04-2022,Kalkaji Mandir,Chandni Chowk,4.72,142.69,63.55,13,Smart Card,
+90707,18-01-2022,Janakpuri West,Old Delhi,1.92,127.98,35.47,15,Single,off-peak
+57556,30-10-2022,New Delhi,Janakpuri West,3.28,90.36,76.19,16,Smart Card,
+23018,20-04-2023,Hauz Khas,New Delhi,3.73,70.59,102.39,19,Single,festival
+29385,28-08-2023,Rajiv Chowk,Kirti Nagar,2.04,61.58,27.92,,Tourist Card,
+57061,03-08-2024,Dilshad Garden,Kalkaji Mandir,1.31,104.18,95.54,23,Single,peak
+39589,02-09-2023,Kalkaji Mandir,Jasola Vihar,3.09,54.98,106.1,14,Tourist Card,weekend
+98822,17-08-2023,Rajiv Chowk,Janakpuri West,24.43,71.16,118.38,14,Tourist Card,festival
+38759,28-04-2023,New Delhi,Model Town,7.34,141.42,39.3,21,Smart Card,
+137636,25-09-2023,Janakpuri West,Jasola Vihar,9.74,161.68,79.17,19,Tourist Card,festival
+145040,18-05-2024,Jasola Vihar,Barakhamba Road,3.17,100.64,108.87,19,Smart Card,maintenance
+51324,26-10-2022,   HAUZ KHAS ,Kalkaji Mandir,1.01,133.07,9.51,28,Smart Card,peak
+115810,10-05-2023,Rajiv Chowk,Dilshad Garden,5.79,169.08,34.7,18,Tourist Card,
+12388,10-05-2023,Rajiv Chowk,AIIMS,0.98,157.52,50.77,14,Tourist Card,
+20333,18-04-2024,Dilshad Garden,Punjabi Bagh,8.7,69.81,32.32,19,Tourist Card,off-peak
+115707,27-06-2022,Dilshad Garden,Janakpuri West,4.23,172.1,102.65,21,Single,weekend
+118151,22-01-2023,Noida City Centre,Chandni Chowk,7.59,41.3,70.33,26,Tourist Card,off-peak
+42961,26-11-2024,  Rajiv Chowk  ,Janakpuri West,7.32,91.97,11.62,16,Smart Card,weekend
+73032,19-05-2022,Chandni Chowk,Inderlok,1.56,97.74,78.94,20,Tourist Card,peak
+81821,15-07-2023, Central Secretariat ,Barakhamba Road,3.93,99.64,75.47,20,Single,peak
+75117,05-06-2023,Inderlok,Barakhamba Road,2.16,114.34,61.95,23,Single,
+52002,03-11-2024,Model Town,Punjabi Bagh,0.91,56.31,52.05,24,Smart Card,weekend
+122230,17-09-2022,Kashmere Gate,Dilshad Garden,13.36,179.54,89.42,25,Smart Card,
+77941,01-04-2024,Mandi House,Shivaji Park,2.9,81,98.13,24,Smart Card,festival
+54601,02-05-2022,Noida City Centre,Central Secretariat,8.41,175.24,15.71,19,Tourist Card,maintenance
+120535,19-02-2022,Inderlok,Jasola Vihar,3.68,37.24,19.52,28,Smart Card,
+124026,27-03-2023,  model town ,Pragati Maidan,0.69,151.47,21.85,18,Tourist Card,peak
+25145,04-01-2022,Kalkaji Mandir,Dilshad Garden,2.78,177.68,76.75,23,Tourist Card,off-peak
+18634,21-02-2024,Model Town,Rajiv Chowk,9.8,21.86,118.45,26,Tourist Card,off-peak
+804,27-10-2023,Model Town,Rajouri Garden,2.08,111.19,117.76,20,Single,off-peak
+116160,07-09-2024,Rajouri Garden,Old Delhi,5.14,150.46,75.33,29,Smart Card,festival
+99590,12-04-2024,Laxmi Nagar,Kirti Nagar,5.33,73.9,73.3,16,Smart Card,
+5331,11-10-2022,Mandi House,Mandi House,9.13,54.68,90.11,19,Single,festival
+65482,20-08-2022,  Rajouri Garden   ,New Delhi,1.61,147.64,52.68,20,Single,maintenance
+32811,13-03-2022,   NEW DELHI   ,Old Delhi,7.33,121.75,89.2,17,Tourist Card,peak
+140869,28-11-2022,Dilshad Garden,Kirti Nagar,3.33,173.84,85.7,21,Tourist Card,maintenance
+144083,04-03-2022,Mandi House,AIIMS,3.29,141.43,5.18,24,Tourist Card,festival
+107922,02-03-2023,Inderlok,Mandi House,7.03,49.89,98.22,21,Tourist Card,maintenance
+86746,18-12-2022,   Kalkaji Mandir   ,Rajiv Chowk,7.82,121.38,103.8,22,Tourist Card,off-peak
+54707,30-07-2023,Rajiv Chowk,Inderlok,10.43,75.01,88.29,24,Smart Card,weekend
+41494,17-02-2024,Noida City Centre,Pragati Maidan,1.76,61.86,63.01,17,Tourist Card,
+29973,07-10-2022,Model Town,Rajiv Chowk,2.32,65.88,7.03,28,,weekend
+23948,08-05-2024,Dilshad Garden,Kirti Nagar,0.72,61.84,88.53,,Single,
+76137,11-07-2024,   Jasola Vihar ,Rajiv Chowk,0.69,138.79,17.19,13,Single,maintenance
+37683,16-10-2024,Jasola Vihar,New Delhi,4.67,25.26,38.56,28,Smart Card,peak
+42062,25-09-2023,   Noida City Centre  ,Shivaji Park,7.13,32.53,119.76,21,Smart Card,off-peak
+80669,16-12-2022,Jasola Vihar,Netaji Subhash Place,1.82,136.21,25.21,21,Single,festival
+35276,23-03-2022,  KALKAJI MANDIR  ,Shivaji Park,4.27,23.16,54.28,23,Tourist Card,festival
+23279,10-10-2023,   AIIMS   ,Kirti Nagar,1.43,27.69,98.76,,Smart Card,peak
+123501,09-09-2024,Noida City Centre,Inderlok,8.97,149.89,5.38,15,Smart Card,peak
+98712,06-12-2023,Noida City Centre,Laxmi Nagar,0.54,156.19,84.39,14,Single,off-peak
+61475,31-08-2023,   Jasola Vihar   ,Kalkaji Mandir,5.16,70.62,114.75,22,Tourist Card,weekend
+131619,10-01-2023,  Rajiv Chowk   ,Kashmere Gate,1.53,152.75,30.45,25,Tourist Card,off-peak
+118032,19-10-2022,Rajiv Chowk,Netaji Subhash Place,4.1,130.61,90.36,25,Tourist Card,
+125503,03-02-2023,   Janakpuri West   ,Kalkaji Mandir,4.14,126.08,81.47,24,Tourist Card,
+14962,21-04-2024,Noida City Centre,AIIMS,1.53,170.13,97.04,25,Tourist Card,peak
+55643,23-01-2022,Janakpuri West,New Delhi,11.49,147.62,13.5,9,Tourist Card,festival
+2063,02-06-2024,Noida City Centre,Rajouri Garden,7.97,132.67,82.93,19,Tourist Card,maintenance
+75274,21-04-2022,Dilshad Garden,Rajouri Garden,4.59,145.35,112.63,32,Tourist Card,maintenance
+54407,20-09-2023,Rajiv Chowk,Punjabi Bagh,7.3,55.09,19.46,18,Smart Card,
+19698,23-01-2024,   Janakpuri West  ,Hauz Khas,5.44,152.37,82.11,25,Single,weekend
+91084,07-06-2024, INDERLOK ,Janakpuri West,0.94,85.46,75.82,24,Tourist Card,off-peak
+18796,28-09-2023,Mandi House,Barakhamba Road,1.39,36.35,116.97,20,Smart Card,
+99541,25-12-2024,Rajouri Garden,Old Delhi,1.72,49.21,45.83,16,Smart Card,maintenance
+2496,24-06-2023,Noida City Centre,Kirti Nagar,3.95,97.39,25.15,16,Tourist Card,peak
+44648,23-08-2022,Noida City Centre,Kirti Nagar,0.56,153.56,92.92,27,Tourist Card,peak
+83627,20-10-2024,Model Town,Barakhamba Road,1.45,170.33,27.85,31,Single,
+82908,11-02-2022,Rajiv Chowk,Barakhamba Road,3.37,92.37,84.07,17,Single,peak
+68438,04-08-2024,Rajouri Garden,Noida City Centre,1.43,68.72,5.66,18,Single,festival
+10899,20-05-2022,Central Secretariat,Model Town,14.02,62.11,92.93,23,Tourist Card,
+24394,24-04-2022,Central Secretariat,Inderlok,7.25,89.38,112.41,20,Single,peak
+113992,14-11-2024,Noida City Centre,Dilshad Garden,10.74,110.18,67.59,22,Single,maintenance
+57580,24-01-2023,Hauz Khas,Jasola Vihar,5.71,138.04,36,23,Smart Card,peak
+31259,30-01-2023,Janakpuri West,New Delhi,5.11,144.27,62.64,16,Tourist Card,
+116769,26-12-2022,Laxmi Nagar,Chandni Chowk,10.14,121.7,44.1,23,Tourist Card,weekend
+96935,07-04-2022,Noida City Centre,Kashmere Gate,4.89,136.41,107.37,18,Single,weekend
+136820,24-10-2022,Mandi House,Netaji Subhash Place,9.44,86.51,64.98,17,Tourist Card,maintenance
+105878,16-02-2023,Central Secretariat,Laxmi Nagar,5.49,75.96,10.76,21,Smart Card,peak
+41484,26-11-2024,New Delhi,Janakpuri West,12.49,72.25,117.43,18,Single,
+89559,12-09-2023, Rajiv Chowk ,Dilshad Garden,0.63,37.24,82.79,20,Tourist Card,
+28275,02-12-2023,Noida City Centre,Dilshad Garden,8.89,121.14,72.69,23,Tourist Card,peak
+66947,13-05-2022,Rajouri Garden,Laxmi Nagar,4.91,102.34,7.38,12,Smart Card,festival
+113530,03-12-2022,Noida City Centre,Laxmi Nagar,24.22,31.65,89.15,30,Single,off-peak
+29354,13-11-2023,Laxmi Nagar,Dilshad Garden,2,194.39,14.1,20,Tourist Card,
+129659,12-08-2023,Kalkaji Mandir,Punjabi Bagh,5.27,102.16,80.27,21,Tourist Card,off-peak
+86578,12-11-2023,Rajiv Chowk,Central Secretariat,5.69,89.11,21.53,19,Tourist Card,off-peak
+88631,19-11-2022,  model town ,Punjabi Bagh,0.6,43.93,26.85,19,Smart Card,
+66286,31-08-2022,Rajiv Chowk,Punjabi Bagh,4.44,17.04,80.85,15,Tourist Card,festival
+29532,18-01-2023,Rajiv Chowk,Rajiv Chowk,2.96,65.34,73.22,20,Single,festival
+49688,29-09-2022,Rajiv Chowk,Central Secretariat,5.9,102.56,102.68,22,Tourist Card,festival
+57864,30-09-2023,Noida City Centre,Laxmi Nagar,11.74,80.14,24.52,19,Tourist Card,peak
+3712,24-02-2024,Jasola Vihar,Rajouri Garden,12.96,36.81,57.84,16,Tourist Card,maintenance
+95896,13-09-2023,New Delhi,Pragati Maidan,0.53,85.87,114.32,27,Smart Card,festival
+121039,03-05-2024,Hauz Khas,Dilshad Garden,7.75,184.88,31.53,19,Tourist Card,off-peak
+30634,13-11-2023,Noida City Centre,Shivaji Park,2.81,115.34,18.84,28,Tourist Card,
+49329,27-02-2022,Rajiv Chowk,Punjabi Bagh,1.9,113.21,111.32,31,Smart Card,peak
+138026,14-08-2022,Rajiv Chowk,Barakhamba Road,3.54,34.56,79.62,20,Tourist Card,maintenance
+86631,10-09-2023,New Delhi,Rajiv Chowk,7.63,121.28,63.54,19,Smart Card,
+68197,25-08-2024,Hauz Khas,Kashmere Gate,6.84,95.63,14.95,22,Tourist Card,festival
+98533,22-12-2024, hauz khas  ,Inderlok,22.15,77.68,45.82,20,Tourist Card,off-peak
+87977,11-10-2024,Kashmere Gate,Pragati Maidan,3.52,99.35,32.84,17,Tourist Card,off-peak
+135760,29-12-2024, AIIMS ,Laxmi Nagar,12.39,156.41,79.28,14,Tourist Card,festival
+110591,12-12-2024,Noida City Centre,Kirti Nagar,16.88,29.06,99.59,28,Smart Card,festival
+143509,11-03-2023,Rajiv Chowk,Noida City Centre,2.13,113.73,69.21,20,Tourist Card,off-peak
+140882,13-11-2023,Kashmere Gate,New Delhi,8.76,32.73,108.79,16,Smart Card,festival
+138303,22-04-2023,AIIMS,Central Secretariat,6.51,119.45,87.61,20,Tourist Card,festival
+132911,09-02-2023,Rajiv Chowk,Kashmere Gate,1.98,170.27,65.92,14,Tourist Card,off-peak
+58641,03-11-2023,Rajouri Garden,Hauz Khas,9.15,56.99,73.22,18,Single,maintenance
+80492,13-04-2023,Rajiv Chowk,Shivaji Park,3.73,71.01,59.54,17,Single,
+135951,29-01-2023,Janakpuri West,Jasola Vihar,2.51,16.62,27.35,25,Smart Card,peak
+36676,27-10-2022,   New Delhi ,Dilshad Garden,11.72,97.11,117,14,Smart Card,maintenance
+74670,21-07-2022,Kashmere Gate,AIIMS,8.37,176.63,62.93,24,Single,peak
+7025,24-10-2023,Kalkaji Mandir,Rajiv Chowk,1.05,184.81,32.02,17,Tourist Card,
+9657,31-10-2024,Rajiv Chowk,Model Town,13.25,10.02,31.31,17,Smart Card,
+117428,19-10-2022,Noida City Centre,Old Delhi,13.29,150.23,36.45,19,Tourist Card,festival
+67812,06-01-2022,New Delhi,Rajouri Garden,3.02,136.88,92.51,23,Tourist Card,off-peak
+37535,05-09-2022,   Central Secretariat  ,Dilshad Garden,1.02,30.23,37.31,17,Tourist Card,peak
+105035,24-06-2023,Noida City Centre,Punjabi Bagh,4.19,60.72,117.69,26,Tourist Card,festival
+99834,31-07-2024,Central Secretariat,New Delhi,1.55,168.83,55.95,21,Tourist Card,off-peak
+135444,06-08-2022,Janakpuri West,Model Town,1.59,55.65,23.45,24,Tourist Card,
+21272,25-07-2022,Rajiv Chowk,Kashmere Gate,3.78,11.79,34.68,,Smart Card,off-peak
+133127,07-11-2022,AIIMS,Rajiv Chowk,6.6,78.79,105.3,26,Smart Card,maintenance
+46505,06-04-2023, DILSHAD GARDEN  ,Netaji Subhash Place,4.1,15.01,61.75,20,Tourist Card,
+112040,27-01-2024,  Kashmere Gate  ,Noida City Centre,3.17,116.78,57.66,25,Tourist Card,weekend
+118338,10-10-2024,   rajouri garden ,Laxmi Nagar,3.64,144.97,111.2,16,Smart Card,weekend
+50958,08-03-2023,Rajiv Chowk,Barakhamba Road,3.58,45.21,32.37,20,Tourist Card,weekend
+41409,04-05-2023,Chandni Chowk,Model Town,6.68,167.46,25.87,23,Smart Card,off-peak
+99185,29-11-2024,New Delhi,Inderlok,3.77,177.65,28.99,20,Tourist Card,peak
+105625,23-11-2024,Central Secretariat,Jasola Vihar,2.96,14.94,14.79,23,Single,
+130563,03-02-2022,Rajiv Chowk,Central Secretariat,0.99,127.48,16.35,21,Tourist Card,peak
+38453,07-12-2023,Mandi House,Shivaji Park,4.49,19.87,81.14,15,Smart Card,maintenance
+72799,11-02-2024,AIIMS,Kirti Nagar,2.51,17.71,82.54,22,Single,
+83410,02-07-2023, Mandi House ,Central Secretariat,11.22,125.03,15.75,22,Single,weekend
+11831,13-05-2023,Dilshad Garden,New Delhi,9.42,32.18,68.78,18,Smart Card,weekend
+99983,16-12-2022,Inderlok,Chandni Chowk,7.93,175.43,41.49,20,Smart Card,
+119878,15-12-2023, aiims ,Noida City Centre,7.08,108.42,91.4,16,Tourist Card,
+132046,26-06-2024,Noida City Centre,Jasola Vihar,4.39,20.54,27.39,22,Tourist Card,maintenance
+112554,01-11-2024,Rajiv Chowk,Chandni Chowk,1.42,28.94,95.33,18,Single,festival
+75844,22-06-2024,Chandni Chowk,Pragati Maidan,4.32,36.64,49.56,13,Tourist Card,festival
+140220,01-02-2023,Noida City Centre,Jasola Vihar,4.78,93.33,100.61,19,Tourist Card,peak
+17767,23-01-2022,Rajiv Chowk,Chandni Chowk,4.26,109.93,9.02,16,Single,peak
+144499,11-01-2024,Mandi House,Hauz Khas,16.91,78.13,88.48,18,Smart Card,festival
+99179,16-04-2024,   INDERLOK ,Netaji Subhash Place,12.16,15.76,36.97,20,Smart Card,weekend
+112367,19-01-2023,Noida City Centre,Dilshad Garden,6.66,36.47,54.74,27,Tourist Card,festival
+116122,26-11-2024,Noida City Centre,Model Town,1.65,195.91,87.07,18,Smart Card,maintenance
+55869,28-11-2024,New Delhi,Old Delhi,2.48,128.52,48.39,24,Smart Card,festival
+43441,17-09-2023,Central Secretariat,Chandni Chowk,2.79,21.54,55.15,20,Tourist Card,off-peak
+80277,21-08-2022,Noida City Centre,Kashmere Gate,7.34,146.55,16.67,17,Smart Card,maintenance
+121937,29-02-2024,Mandi House,Kalkaji Mandir,1.73,90.54,49.09,25,Single,festival
+43467,22-10-2024,Laxmi Nagar,Central Secretariat,6.87,32.49,22.23,23,Tourist Card,weekend
+92015,05-09-2022,Noida City Centre,Jasola Vihar,4.31,188.3,93.87,25,Tourist Card,festival
+98023,23-09-2023,Noida City Centre,Laxmi Nagar,13.91,39.89,94.64,18,Smart Card,peak
+88365,22-02-2024,Mandi House,Rajouri Garden,2.34,66.38,37.36,21,Smart Card,off-peak
+82415,15-04-2023,   Kashmere Gate   ,Noida City Centre,7.33,76.41,32.86,18,Single,off-peak
+68889,07-06-2022,Model Town,Pragati Maidan,1.23,182.08,109.96,20,Tourist Card,weekend
+142503,16-06-2023,   JASOLA VIHAR ,Kashmere Gate,3.71,50.42,48.42,15,Smart Card,maintenance
+74309,05-07-2022,Central Secretariat,Chandni Chowk,2.71,70.61,5.42,13,Single,festival
+71010,04-07-2023,  central secretariat  ,Mandi House,2.68,179.08,9.69,21,Tourist Card,maintenance
+3058,26-03-2022,Noida City Centre,Inderlok,0.66,127.79,107.86,21,,festival
+124027,11-11-2022,Janakpuri West,New Delhi,3.68,47.15,7.03,24,Tourist Card,off-peak
+53309,21-08-2023, Laxmi Nagar   ,Mandi House,2.62,167.09,10.64,21,Single,festival
+99297,13-09-2022,Noida City Centre,Laxmi Nagar,12.99,159.66,41.67,26,Tourist Card,off-peak
+30283,08-12-2022,Chandni Chowk,Janakpuri West,2.43,30.54,51.95,16,Single,weekend
+32050,14-07-2023,Jasola Vihar,Pragati Maidan,0.95,49.63,17.33,23,Smart Card,peak
+37779,13-04-2024,  AIIMS ,Kashmere Gate,3.65,138.73,100.09,27,Smart Card,off-peak
+42434,26-11-2022,Mandi House,Model Town,1.89,30.9,67.13,15,Single,weekend
+53732,01-06-2024,Noida City Centre,Barakhamba Road,1.96,46.24,92.64,18,,maintenance
+79013,06-10-2023,New Delhi,Central Secretariat,5.5,100.7,94.28,16,Single,maintenance
+99518,02-12-2022,  Dilshad Garden   ,Model Town,27.65,195.96,57.02,24,Tourist Card,peak
+126951,09-04-2024,Rajiv Chowk,Old Delhi,1.19,77.25,24.75,14,Tourist Card,
+16890,09-09-2022,AIIMS,Old Delhi,1.71,153.56,110.99,17,Smart Card,weekend
+86726,31-01-2024, NEW DELHI  ,Kashmere Gate,6.02,45.01,73.71,23,Single,weekend
+96353,27-04-2024,New Delhi,Inderlok,8.19,169.52,57.87,23,Smart Card,off-peak
+104782,08-01-2023,Rajiv Chowk,Noida City Centre,3.12,83.19,44.14,18,Single,weekend
+133993,12-09-2022,AIIMS,Barakhamba Road,5.8,17.73,105.76,20,Tourist Card,
+57910,26-12-2022, New Delhi ,Laxmi Nagar,4.99,50.24,118.25,19,Tourist Card,
+82027,05-07-2024,Kashmere Gate,AIIMS,2.85,112.53,66.45,8,Smart Card,off-peak
+50319,28-01-2023,Central Secretariat,Kashmere Gate,6.92,40.94,111.86,12,Smart Card,
+107403,13-06-2022,Hauz Khas,Jasola Vihar,2.96,89.09,5.79,27,Tourist Card,
+37185,21-09-2022,New Delhi,Barakhamba Road,4.87,129.83,83.44,20,Tourist Card,festival
+127036,12-08-2024, Mandi House  ,Inderlok,5.34,53.89,8.49,19,Smart Card,off-peak
+91184,21-03-2022,Rajiv Chowk,Laxmi Nagar,27.57,97.01,11.16,22,Tourist Card,festival
+99670,13-06-2022,Noida City Centre,Shivaji Park,10.94,62.49,7.24,15,Single,maintenance
+55875,28-04-2023,Dilshad Garden,Inderlok,4.89,125.15,21.54,14,Single,peak
+80048,04-03-2024,Rajiv Chowk,Chandni Chowk,4.9,193.19,47.6,20,Tourist Card,maintenance
+97521,08-05-2024,Rajiv Chowk,Rajouri Garden,3.63,170.82,32.63,22,Single,
+37033,05-08-2024,Laxmi Nagar,Netaji Subhash Place,8.05,50.4,26.75,17,Smart Card,maintenance
+78810,07-09-2023,AIIMS,Central Secretariat,3.57,192.38,67.07,16,Single,festival
+145539,04-03-2023,Janakpuri West,Rajiv Chowk,6.5,167.26,7.33,19,Smart Card,peak
+45215,29-12-2022,Rajiv Chowk,Hauz Khas,3.58,150.82,78.44,22,Tourist Card,maintenance
+57928,05-10-2024,AIIMS,Kashmere Gate,4.79,186.06,110.91,12,Tourist Card,festival
+138988,31-10-2022,Janakpuri West,Pragati Maidan,15.23,131.92,58.32,28,Single,peak
+98999,31-12-2023,  Dilshad Garden ,Pragati Maidan,6.84,71.07,68.81,20,Smart Card,festival
+70691,12-01-2024,  Jasola Vihar ,Hauz Khas,6.15,153.17,65.14,20,Tourist Card,festival
+107884,07-07-2024, Model Town   ,Laxmi Nagar,5.34,39.15,40.82,16,Smart Card,weekend
+46238,21-11-2023,  AIIMS   ,Hauz Khas,1.96,128.24,81.29,17,Tourist Card,festival
+80799,20-05-2024,Jasola Vihar,Shivaji Park,2.47,56.01,62,18,Single,
+96346,14-02-2024,Rajouri Garden,Kashmere Gate,1.59,100.56,87.85,19,Single,
+33948,14-11-2022,Model Town,Chandni Chowk,2.72,68.79,14.04,22,Single,maintenance
+6257,10-11-2023,Mandi House,Kalkaji Mandir,1.77,110.86,49.71,25,Smart Card,off-peak
+145977,01-08-2024,   Chandni Chowk ,Mandi House,0.81,70.5,42.92,16,Tourist Card,off-peak
+15292,01-07-2024,  MODEL TOWN ,Kashmere Gate,2.11,122.17,58.09,14,Smart Card,maintenance
+145752,02-12-2022,  Rajiv Chowk  ,Pragati Maidan,5.82,30.75,44.6,18,Tourist Card,off-peak
+102730,29-07-2023,Model Town,Noida City Centre,8.4,103.04,108.64,24,Smart Card,peak
+51374,30-05-2022, Central Secretariat   ,Laxmi Nagar,2.98,133.59,62.92,22,Tourist Card,off-peak
+8092,01-05-2023,Rajiv Chowk,Inderlok,7,38.44,68.29,24,Smart Card,maintenance
+118077,05-06-2022,Noida City Centre,Kashmere Gate,1.62,51.93,104.53,21,Single,festival
+61936,31-03-2024,New Delhi,Inderlok,17.19,72.37,82.1,21,Smart Card,off-peak
+49401,31-08-2023,New Delhi,Central Secretariat,10.38,15.23,79.5,26,Single,maintenance
+139169,01-01-2023,   Jasola Vihar  ,Rajouri Garden,1.29,105.53,72.95,23,Tourist Card,
+112643,22-10-2024,Chandni Chowk,Netaji Subhash Place,8.57,82.5,49.62,15,Single,peak
+130538,10-03-2024, Dilshad Garden   ,Laxmi Nagar,4.42,122.86,105.87,22,Single,
+9359,24-07-2024,New Delhi,Inderlok,5.27,124.25,63.28,28,Single,maintenance
+59283,01-08-2024,Chandni Chowk,Inderlok,2.16,146.63,65.33,19,Tourist Card,maintenance
+4336,01-03-2022,Kashmere Gate,Punjabi Bagh,2.73,15.76,86.9,19,Single,maintenance
+100984,29-03-2022,Model Town,Chandni Chowk,5.43,181.17,18.87,25,Tourist Card,off-peak
+121792,29-07-2022,Rajiv Chowk,Model Town,2.14,66.29,73.22,22,Tourist Card,maintenance
+149984,07-01-2023,Noida City Centre,Jasola Vihar,6.16,169.02,48.97,23,Single,off-peak
+83553,03-07-2022,Rajiv Chowk,Kirti Nagar,1.9,85.15,48.68,26,Smart Card,peak
+77224,02-07-2022,  Rajouri Garden  ,Laxmi Nagar,14.6,113.31,86.95,16,Single,weekend
+138781,29-03-2023,   kashmere gate ,Punjabi Bagh,12.39,193.77,88.87,24,Single,
+137025,19-07-2022,AIIMS,Punjabi Bagh,6.67,41.86,117.85,28,Tourist Card,peak
+42313,04-01-2024,Rajiv Chowk,Kirti Nagar,3.45,43.16,19,21,Single,weekend
+92107,01-07-2024,Dilshad Garden,Janakpuri West,3.98,38.89,42.49,35,Tourist Card,festival
+2072,23-07-2023,Janakpuri West,Laxmi Nagar,1.45,117.5,23.27,17,Tourist Card,festival
+41760,11-03-2024,Noida City Centre,Netaji Subhash Place,3.84,20.94,86.32,25,Tourist Card,peak
+23165,16-05-2024,Rajiv Chowk,Pragati Maidan,1.73,30.72,69.07,17,Single,festival
+68560,28-07-2023,Kashmere Gate,Laxmi Nagar,3.9,159.81,38.72,25,Tourist Card,weekend
+71052,13-04-2022,Central Secretariat,Shivaji Park,3.17,83.94,38.9,27,Smart Card,peak
+32456,10-01-2022,  Rajiv Chowk ,Mandi House,6.27,110.13,77.4,23,Single,festival
+40843,15-06-2024,Mandi House,Pragati Maidan,5.29,91.62,43.65,11,Single,
+63583,04-01-2022,Mandi House,Model Town,12.78,168.76,32.04,23,Single,
+7038,07-05-2023,Central Secretariat,Rajouri Garden,9.24,162.36,88.26,22,Smart Card,
+4273,15-06-2022,Noida City Centre,Jasola Vihar,4.86,29.74,115.31,13,Tourist Card,
+31244,11-12-2024,Model Town,Barakhamba Road,6.4,12.55,35.96,19,Tourist Card,maintenance
+32355,18-04-2022,Rajouri Garden,Noida City Centre,4.86,126.96,39.26,28,Smart Card,
+30469,25-02-2023,   AIIMS  ,Barakhamba Road,6.51,129.76,91.74,22,Smart Card,peak
+76242,30-10-2023,Rajiv Chowk,Jasola Vihar,5.78,150.17,44.67,15,Tourist Card,festival
+118937,12-12-2022,Model Town,Kirti Nagar,18.52,166.14,71.21,23,Tourist Card,maintenance
+65405,05-11-2024,Jasola Vihar,Hauz Khas,9.95,185.3,20,21,Single,peak
+66586,05-03-2022,  CHANDNI CHOWK ,Netaji Subhash Place,6.89,150.16,35.11,16,Tourist Card,weekend
+5432,07-04-2022,Janakpuri West,Barakhamba Road,10.32,165.84,86.25,21,Tourist Card,
+140995,24-03-2023,Rajiv Chowk,Chandni Chowk,13.68,179.45,6.6,25,Tourist Card,
+52428,01-01-2023,Kalkaji Mandir,Old Delhi,8.08,97.46,22.43,25,Single,festival
+134976,28-07-2023,Noida City Centre,New Delhi,3.05,71.19,95.44,19,Tourist Card,maintenance
+96340,12-10-2023,Laxmi Nagar,Model Town,1.67,59.03,109.26,24,Tourist Card,festival
+64124,02-11-2022,Rajiv Chowk,Netaji Subhash Place,15.9,134.17,42.73,18,Tourist Card,
+14807,14-11-2022,Model Town,Rajouri Garden,7.2,10.23,8.62,17,Tourist Card,weekend
+33821,10-12-2023,Mandi House,Jasola Vihar,3.56,146.54,103.53,18,Tourist Card,
+10629,17-08-2022,   inderlok ,Model Town,2.48,192.57,52.38,19,Tourist Card,
+5242,06-04-2023,Mandi House,Shivaji Park,1.77,169.66,68.3,26,Smart Card,weekend
+135302,20-08-2024,Rajiv Chowk,Kashmere Gate,1.32,52.04,30.06,17,Single,
+43053,04-09-2023,   Laxmi Nagar   ,Barakhamba Road,1.24,20.91,46.41,21,Tourist Card,weekend
+115170,10-09-2023,Dilshad Garden,Central Secretariat,4.37,36.86,59.19,17,Tourist Card,festival
+113591,09-08-2023,   RAJOURI GARDEN   ,Shivaji Park,3.45,99.63,61.39,12,Single,festival
+148709,14-02-2023, janakpuri west   ,Dilshad Garden,2.9,51.3,27.12,16,Smart Card,off-peak
+132364,02-02-2023,Laxmi Nagar,Rajiv Chowk,9.29,180.09,29.3,21,Smart Card,weekend
+102591,29-09-2022,   KASHMERE GATE   ,Chandni Chowk,1.39,37.57,73.4,18,Single,
+81379,07-10-2024,Inderlok,Model Town,9.13,166.18,100.44,18,Tourist Card,maintenance
+128012,11-01-2024,Noida City Centre,Netaji Subhash Place,3.66,64.68,100.72,25,Tourist Card,peak
+118435,24-06-2023,Chandni Chowk,Noida City Centre,7.54,60.45,18.57,20,Smart Card,peak
+86607,23-10-2023,AIIMS,Jasola Vihar,1.57,123.1,75.36,18,Smart Card,
+85379,01-07-2023,Rajouri Garden,Old Delhi,4.85,68.45,43.14,22,Smart Card,
+97675,26-04-2022,Inderlok,Janakpuri West,1.19,179.9,5.55,20,Smart Card,weekend
+99992,17-05-2022,Dilshad Garden,Jasola Vihar,1.19,125.53,105.8,18,Tourist Card,weekend
+113830,04-04-2024,New Delhi,Rajouri Garden,1.01,108.37,79.97,25,Tourist Card,off-peak
+101215,01-01-2023,Janakpuri West,Mandi House,8.08,173.01,105.33,23,Single,
+90727,14-05-2024,Inderlok,AIIMS,10.51,113.53,53.77,19,Tourist Card,maintenance
+112284,11-11-2022,Rajiv Chowk,Jasola Vihar,0.85,52.55,109.44,20,Single,weekend
+87163,10-09-2024,Dilshad Garden,Jasola Vihar,6.5,129.98,28.81,21,Single,
+15984,06-12-2023,Central Secretariat,Kalkaji Mandir,0.88,130.21,77.34,31,Single,festival
+134201,12-11-2022,   MANDI HOUSE ,Kalkaji Mandir,1.16,131.74,115.65,19,Smart Card,maintenance
+8907,30-11-2023,Rajiv Chowk,Jasola Vihar,0.6,193.89,107.36,24,Smart Card,maintenance
+88052,27-05-2023,Kalkaji Mandir,Chandni Chowk,0.98,94.02,77.1,21,Single,off-peak
+58364,18-08-2023,Noida City Centre,Mandi House,2.52,128.59,116.78,19,,off-peak
+90504,09-07-2022,Noida City Centre,New Delhi,2.75,144.22,9.87,14,Tourist Card,festival
+39730,03-02-2023,Mandi House,Model Town,4.8,119.69,119.68,21,Smart Card,
+148556,11-05-2023,Rajouri Garden,Central Secretariat,0.54,165.13,20.61,,Tourist Card,maintenance
+30155,04-06-2024,Chandni Chowk,Mandi House,16.32,93.51,83.34,15,Smart Card,off-peak
+41135,06-09-2024,Noida City Centre,Shivaji Park,8.84,23.37,91.92,19,Tourist Card,
+65404,25-02-2023, Rajouri Garden  ,Shivaji Park,5.08,138.2,88.28,24,Tourist Card,off-peak
+88749,29-12-2024,Central Secretariat,Noida City Centre,7.09,45.7,87.96,22,Tourist Card,festival
+104484,12-10-2023,Rajiv Chowk,Central Secretariat,1.32,24.12,107.91,22,,weekend
+98196,11-03-2023,Noida City Centre,Old Delhi,1.98,192.52,101.19,25,Smart Card,maintenance
+88639,29-08-2022,Hauz Khas,Dilshad Garden,1.9,180.85,56.56,21,Tourist Card,
+120552,04-06-2022,Rajiv Chowk,Inderlok,2.33,148.65,115.66,,Tourist Card,
+113005,14-06-2024,Rajiv Chowk,Dilshad Garden,0.5,123.13,89.65,20,Tourist Card,festival
+60872,06-03-2023,Laxmi Nagar,Inderlok,2.82,149.53,19.1,18,Tourist Card,festival
+27146,26-11-2023,Mandi House,Kirti Nagar,2.14,127.96,24.18,35,Single,maintenance
+72178,13-12-2022,Hauz Khas,Dilshad Garden,1.63,51.98,28.59,21,Tourist Card,festival
+42557,03-12-2024,Noida City Centre,Shivaji Park,2.03,71.68,33.8,22,Smart Card,weekend
+11502,26-08-2024,Rajiv Chowk,Kirti Nagar,7.7,75.81,87.66,19,Tourist Card,weekend
+126986,11-08-2024,AIIMS,Kalkaji Mandir,1.93,21.06,13.42,14,Tourist Card,
+101117,04-09-2022,Laxmi Nagar,Kirti Nagar,8.6,116.01,114.11,18,Tourist Card,off-peak
+5056,22-12-2023,  NEW DELHI ,Kirti Nagar,7.12,34.32,108.64,26,Tourist Card,
+98676,16-12-2023,Laxmi Nagar,Rajiv Chowk,1.18,76.6,101.23,20,Smart Card,off-peak
+45446,14-12-2024,Hauz Khas,Netaji Subhash Place,1.46,187.03,11.04,21,Tourist Card,weekend
+47201,26-07-2022,  Hauz Khas   ,Jasola Vihar,5.79,189.18,59.49,18,Tourist Card,weekend
+56538,05-03-2022,Noida City Centre,Janakpuri West,2.48,173.37,47.22,19,Tourist Card,peak
+70974,16-01-2023,Rajiv Chowk,Mandi House,1.46,54.54,101.72,18,Single,peak
+48419,16-09-2022,Rajiv Chowk,Hauz Khas,7.55,140.84,17.38,15,Single,off-peak
+109649,05-10-2022, janakpuri west  ,Netaji Subhash Place,15.92,131.79,95.12,20,Tourist Card,festival
+114990,15-03-2023,Mandi House,Old Delhi,2.21,48.64,47.19,19,Smart Card,
+145167,20-10-2023,Noida City Centre,Hauz Khas,9.25,158.96,24.69,19,Single,
+12499,18-04-2024,Jasola Vihar,Chandni Chowk,5.38,79.6,89.31,21,,
+103644,26-09-2024,  AIIMS   ,Kalkaji Mandir,6.4,19.79,72.46,18,Tourist Card,off-peak
+118574,29-10-2023,   HAUZ KHAS  ,Kalkaji Mandir,11.54,140.98,8.48,24,Single,weekend
+100590,03-01-2023,Inderlok,Mandi House,3.02,83.21,67.26,15,Tourist Card,
+101575,08-11-2024,Jasola Vihar,Noida City Centre,12.96,97.73,114.27,21,Tourist Card,off-peak
+123629,17-10-2023,Laxmi Nagar,AIIMS,5.03,33.79,17.93,19,Tourist Card,
+96958,26-08-2022,Noida City Centre,Kalkaji Mandir,3.01,89.94,74.53,23,,festival
+90019,28-02-2022,Mandi House,Central Secretariat,2.24,71.47,83.84,18,Smart Card,off-peak
+142945,10-02-2024,   Model Town   ,Kalkaji Mandir,10.49,109.13,41.83,12,Tourist Card,weekend
+121407,10-08-2022,Rajiv Chowk,Kalkaji Mandir,4.8,142.31,45,30,Single,maintenance
+64535,10-05-2024,Rajiv Chowk,Kalkaji Mandir,8.24,187.32,67.43,18,Smart Card,peak
+125562,29-01-2024,Jasola Vihar,Model Town,8.05,11.54,94.19,20,Single,off-peak
+119468,30-11-2023,Mandi House,Shivaji Park,1.57,51.45,101.35,20,Single,maintenance
+67379,03-02-2022,Janakpuri West,Noida City Centre,3.65,62.48,45.97,19,Tourist Card,festival
+52538,18-08-2022,Rajiv Chowk,Laxmi Nagar,2.12,79.8,6.62,23,Single,off-peak
+67555,17-04-2023,Rajiv Chowk,Kalkaji Mandir,31.85,68.01,40.85,17,Tourist Card,festival
+100674,14-02-2023,New Delhi,Kirti Nagar,11.52,160.66,24.26,19,Tourist Card,off-peak
+147941,11-11-2024,Rajiv Chowk,Inderlok,8.86,154.29,112.42,,Tourist Card,peak
+92188,01-02-2024,Rajiv Chowk,Rajouri Garden,1.54,166.43,116.41,24,Smart Card,festival
+143758,15-03-2024,   MODEL TOWN   ,Kalkaji Mandir,1.23,110,29.96,22,Tourist Card,peak
+46593,06-02-2024,Kashmere Gate,Laxmi Nagar,7.76,192.53,89.64,21,Smart Card,festival
+54409,13-04-2022,Mandi House,Model Town,0.71,181.59,112.55,31,Tourist Card,festival
+12582,29-09-2024,Rajiv Chowk,Shivaji Park,7.67,18.97,33.04,20,Tourist Card,off-peak
+99006,12-01-2022,Noida City Centre,Netaji Subhash Place,3.55,134.3,51.67,23,Smart Card,
+11081,26-12-2024,  jasola vihar ,Janakpuri West,11.36,57.93,94.2,14,Tourist Card,off-peak
+50597,12-10-2023,Dilshad Garden,Old Delhi,5.41,15.66,27.43,18,Single,maintenance
+47447,11-08-2022,Dilshad Garden,Netaji Subhash Place,3.95,67.48,101.54,19,Single,
+149159,14-11-2024, Mandi House  ,Inderlok,0.93,169.46,22.35,24,Tourist Card,weekend
+139216,30-09-2022,Mandi House,Central Secretariat,2.19,145.84,94.08,11,Tourist Card,weekend
+68216,14-09-2024,New Delhi,Kashmere Gate,1.96,195.16,94.97,26,Smart Card,peak
+109662,02-03-2022,Rajiv Chowk,Model Town,2.39,110.56,90.41,22,Tourist Card,
+68567,31-12-2022,Mandi House,Punjabi Bagh,3.58,178.59,36.09,13,Single,off-peak
+58028,19-03-2024,Mandi House,Kalkaji Mandir,4.39,172.17,77.12,25,Tourist Card,maintenance
+119167,18-10-2023,   aiims   ,Rajiv Chowk,3.51,145.27,74.46,30,Single,weekend
+4197,29-01-2022,AIIMS,Shivaji Park,3.63,74.48,36.74,23,Smart Card,festival
+73977,22-07-2022,Central Secretariat,Laxmi Nagar,5.24,95.38,12.7,16,Tourist Card,festival
+116890,18-02-2022,Rajiv Chowk,AIIMS,2.96,129.13,32.38,18,Single,weekend
+99940,16-07-2023,Dilshad Garden,Inderlok,3.1,10.91,77.87,14,Single,peak
+43015,02-01-2024,Inderlok,Shivaji Park,11.68,21.8,101.71,16,Smart Card,festival
+11864,24-10-2024,   Rajiv Chowk ,Kalkaji Mandir,9.43,126.18,34.48,17,Tourist Card,off-peak
+130091,11-09-2024,Kashmere Gate,Old Delhi,0.58,126.89,100.69,9,Single,off-peak
+31070,14-10-2023,Noida City Centre,Noida City Centre,3.1,162.85,110.89,29,Tourist Card,maintenance
+140650,18-08-2024,Dilshad Garden,Model Town,8.79,58.44,79.85,17,Tourist Card,
+139479,21-07-2022,Noida City Centre,Shivaji Park,0.93,168.93,34.03,25,Smart Card,weekend
+148178,25-09-2022,New Delhi,Inderlok,8.27,43.19,19.77,18,Smart Card,
+59612,22-03-2023,Noida City Centre,Central Secretariat,1.49,18.42,39.14,,Tourist Card,off-peak
+101586,19-01-2023,  Model Town ,Netaji Subhash Place,5.59,188.92,35.31,17,Single,
+72764,14-06-2022,New Delhi,Netaji Subhash Place,1.4,38.62,67.99,18,Single,festival
+24804,21-12-2024,   AIIMS ,Chandni Chowk,1.89,46.55,32.16,16,Single,weekend
+129671,18-04-2022,Rajiv Chowk,Dilshad Garden,2.57,82.61,29.61,12,Single,maintenance
+98056,25-08-2024,Noida City Centre,Laxmi Nagar,3.83,157.74,26.68,15,Tourist Card,
+91389,21-01-2023,Inderlok,Rajouri Garden,2.57,190.2,81.69,27,Single,off-peak
+91132,26-11-2023,Noida City Centre,Chandni Chowk,2.93,78.58,18.55,26,Tourist Card,
+25014,15-03-2022,New Delhi,Mandi House,0.9,142.65,95.52,29,Tourist Card,festival
+74152,20-10-2024,Rajiv Chowk,Central Secretariat,0.51,100.6,76.19,21,Smart Card,festival
+102522,24-07-2024,Jasola Vihar,Mandi House,12.11,100.83,45.48,17,Single,maintenance
+96354,21-01-2022,Rajiv Chowk,Model Town,3.7,15.12,93,16,Tourist Card,peak
+41997,22-04-2024,Laxmi Nagar,Pragati Maidan,3.1,32.17,36.9,23,Tourist Card,peak
+45862,18-01-2023,New Delhi,Jasola Vihar,5.1,30.62,117.27,22,Tourist Card,festival
+101814,19-10-2022,Noida City Centre,Dilshad Garden,11.74,109.05,37.8,25,Tourist Card,peak
+120143,24-05-2023,Rajiv Chowk,Kirti Nagar,2.61,189.08,37.27,14,Smart Card,
+67687,22-10-2023, janakpuri west  ,Jasola Vihar,4.08,31.1,84.71,16,Smart Card,
+111061,05-11-2024,Dilshad Garden,Laxmi Nagar,5.27,150.33,91.77,24,Smart Card,peak
+113277,29-11-2024,Rajiv Chowk,Inderlok,8.61,148.62,111.62,17,Single,
+93642,09-12-2023,Rajiv Chowk,Hauz Khas,2.18,93.35,63.29,17,Smart Card,maintenance
+111115,12-05-2022,   new delhi  ,Janakpuri West,1.68,193.07,96.66,22,Tourist Card,weekend
+71723,29-12-2023,   Laxmi Nagar  ,Model Town,0.88,52,96.92,18,Single,off-peak
+119249,15-11-2024,Mandi House,Hauz Khas,9.21,184.76,29.46,15,Tourist Card,festival
+101723,04-02-2023,Mandi House,Central Secretariat,8.05,43.15,86.52,23,Tourist Card,
+82157,26-02-2022, Kashmere Gate  ,AIIMS,17.63,52.19,42.1,,Tourist Card,
+117365,25-11-2023,   Inderlok ,Kirti Nagar,3.25,178.04,107.41,18,Single,
+8694,14-01-2022,Noida City Centre,Barakhamba Road,9.05,113.45,82.57,27,Smart Card,peak
+99830,09-03-2022,Noida City Centre,Netaji Subhash Place,14.54,58.5,112.77,21,Single,weekend
+110064,13-07-2024,Jasola Vihar,Rajiv Chowk,1.27,143.46,63.15,22,Smart Card,off-peak
+25067,02-03-2023,Noida City Centre,Central Secretariat,7.2,177.2,20.32,23,Smart Card,maintenance
+69161,02-04-2022,  JANAKPURI WEST  ,New Delhi,1.38,114.07,34.98,17,Smart Card,weekend
+102848,14-06-2024,Mandi House,Rajouri Garden,10.3,132.32,102.64,16,Smart Card,off-peak
+12246,05-05-2022,Laxmi Nagar,Pragati Maidan,7.43,144.1,23.93,17,Single,maintenance
+8927,13-10-2023,Rajiv Chowk,Mandi House,5.39,130.37,6.98,28,Smart Card,peak
+116270,03-12-2023,Rajiv Chowk,Jasola Vihar,3.67,190.68,65.87,20,Single,off-peak
+83815,02-02-2024,Jasola Vihar,Netaji Subhash Place,9.08,112.41,25.26,23,Tourist Card,maintenance
+34477,19-12-2023,Rajiv Chowk,Dilshad Garden,6.57,79.62,61.64,16,Tourist Card,
+37791,12-03-2024,Mandi House,Barakhamba Road,8.69,17.04,12,23,Tourist Card,weekend
+49178,23-09-2022,Rajiv Chowk,Mandi House,11.89,20.2,10.36,24,Smart Card,maintenance
+68547,15-02-2022,Inderlok,Dilshad Garden,1.48,139.36,61.77,17,Single,off-peak
+38348,06-04-2023,  Noida City Centre ,Barakhamba Road,3.01,64.71,21.4,10,Tourist Card,weekend
+84735,27-06-2023,AIIMS,Central Secretariat,4.03,123.89,47.84,17,Tourist Card,peak
+26154,02-07-2022,Mandi House,Barakhamba Road,1.86,62.75,83.5,20,Single,off-peak
+42038,19-01-2022,New Delhi,Netaji Subhash Place,3.06,81.87,105.74,18,Tourist Card,weekend
+115655,10-07-2024,Rajiv Chowk,New Delhi,1.62,25.21,66.04,20,Smart Card,festival
+103877,10-11-2024,New Delhi,Central Secretariat,4.57,94.55,26.29,26,Tourist Card,off-peak
+53068,06-07-2023,Central Secretariat,Kirti Nagar,2.69,194.04,98.14,26,Tourist Card,maintenance
+12185,21-03-2022,Rajiv Chowk,Chandni Chowk,2.05,112.59,115.21,27,Tourist Card,
+97657,17-09-2024,Hauz Khas,Barakhamba Road,1.8,181.84,87.7,10,Smart Card,festival
+16246,28-04-2023,New Delhi,Laxmi Nagar,1.16,164.8,65.03,27,Smart Card,weekend
+86381,22-08-2022, Kashmere Gate  ,Dilshad Garden,5.62,49.38,70.35,30,Tourist Card,weekend
+21541,06-03-2024,Model Town,Hauz Khas,2.81,155.55,108.29,18,Tourist Card,
+41757,27-08-2023, dilshad garden   ,Hauz Khas,23.68,155.76,108.45,23,Tourist Card,festival
+147959,20-06-2024,Rajiv Chowk,Rajouri Garden,1.4,141.72,46.54,18,Tourist Card,festival
+135391,14-06-2022,Jasola Vihar,Model Town,4.55,110.81,60.19,13,Single,maintenance
+124964,09-03-2024,Noida City Centre,Mandi House,5.05,37.75,65.3,21,Smart Card,festival
+100885,24-08-2024,Janakpuri West,Shivaji Park,1.13,26.69,105.34,20,Tourist Card,peak
+57072,04-11-2022,   Inderlok ,Dilshad Garden,2.75,87.31,75.77,23,Single,
+66616,21-11-2022,   Kalkaji Mandir   ,Punjabi Bagh,4.98,96.42,48.25,18,Tourist Card,
+72340,11-03-2022, RAJIV CHOWK ,Barakhamba Road,3.78,140.28,7.9,20,Tourist Card,
+54034,18-08-2023,Mandi House,Shivaji Park,8.79,118.74,28.57,17,Single,off-peak
+47433,19-08-2022,Mandi House,Laxmi Nagar,0.96,93.62,35.32,17,Tourist Card,weekend
+108934,02-06-2022,Model Town,New Delhi,1.04,103.65,18.84,31,Tourist Card,maintenance
+120810,21-01-2023,Laxmi Nagar,Chandni Chowk,3.51,33.14,94.88,17,Smart Card,weekend
+33405,19-02-2023,Rajiv Chowk,Old Delhi,3.21,51.84,54,12,Single,maintenance
+77424,13-09-2024,Janakpuri West,Central Secretariat,2.17,96.51,93.79,21,Smart Card,weekend
+104176,23-02-2024,Noida City Centre,Mandi House,1.57,119.88,29.87,16,Tourist Card,festival
+101672,20-02-2023,New Delhi,Laxmi Nagar,4.63,60.75,76.34,28,Tourist Card,maintenance
+93964,19-10-2024,Rajouri Garden,Chandni Chowk,2.42,151.52,26.03,30,Single,weekend
+79009,15-03-2024,Laxmi Nagar,Central Secretariat,4.69,67.28,15.64,21,Tourist Card,
+81416,29-11-2023,Rajiv Chowk,Hauz Khas,1.14,93.97,73.27,19,Tourist Card,off-peak
+47254,01-01-2024, Model Town  ,Mandi House,4.54,24.47,53.57,24,Single,festival
+62200,29-09-2022,Rajiv Chowk,Hauz Khas,15.48,145.53,87.27,18,Tourist Card,
+112395,16-07-2023,Kashmere Gate,Dilshad Garden,4.29,71.08,29.13,23,Single,weekend
+122905,19-03-2022,Janakpuri West,Rajouri Garden,3.12,185.15,52.54,15,Tourist Card,off-peak
+125909,17-04-2022,Chandni Chowk,Punjabi Bagh,6.35,48.67,47.44,16,Smart Card,off-peak
+52251,10-07-2023,New Delhi,Janakpuri West,1.08,136.09,99.46,35,Smart Card,peak
+38265,04-01-2024,New Delhi,Chandni Chowk,6.44,182.79,51.2,19,Tourist Card,peak
+137738,21-02-2024,Mandi House,Inderlok,3.38,109.75,57.91,24,Tourist Card,
+41399,24-04-2022, Dilshad Garden   ,Netaji Subhash Place,6,183.23,23.67,17,Smart Card,weekend
+44467,27-08-2024,Jasola Vihar,AIIMS,3.17,161.41,115.8,16,Smart Card,festival
+87993,11-07-2023,Dilshad Garden,Kirti Nagar,15.32,178.43,83.32,9,Single,off-peak
+15277,22-03-2023,Noida City Centre,AIIMS,4.44,29.77,80.79,8,Tourist Card,festival
+101444,19-04-2022,Mandi House,Barakhamba Road,3.87,52.87,98.51,15,Tourist Card,maintenance
+56427,30-05-2024,Kashmere Gate,Punjabi Bagh,10.49,130.95,67.86,17,Single,festival
+83851,01-10-2024,Laxmi Nagar,Jasola Vihar,4.04,144.05,55.04,19,Tourist Card,festival
+45696,03-12-2022,Mandi House,Kalkaji Mandir,4.79,85.15,96.3,23,Single,weekend
+62019,11-05-2022,Noida City Centre,Inderlok,0.99,108.38,45.75,23,Tourist Card,peak
+44299,02-05-2024,Janakpuri West,Pragati Maidan,1.71,125.78,116.93,16,Tourist Card,peak
+118714,27-03-2024,   Laxmi Nagar ,Pragati Maidan,6.1,169.71,29.73,22,Tourist Card,festival
+44769,30-06-2022,Rajiv Chowk,Hauz Khas,1.07,55.53,50.41,18,Smart Card,maintenance
+116853,11-08-2023,Noida City Centre,Pragati Maidan,0.92,185.4,75.89,20,Tourist Card,maintenance
+17024,24-01-2022,   RAJOURI GARDEN ,Kalkaji Mandir,6.54,139.57,49.94,17,Tourist Card,off-peak
+149615,09-12-2024,Rajiv Chowk,Chandni Chowk,4.05,69.65,108.21,24,Tourist Card,off-peak
+96615,06-06-2024,Rajouri Garden,Chandni Chowk,10.85,193.56,25.9,10,Single,festival
+45406,19-06-2024,AIIMS,Shivaji Park,2.33,32.3,59.64,21,Smart Card,peak
+95305,24-09-2022,Rajouri Garden,Pragati Maidan,7.06,67.15,9.59,23,Tourist Card,
+49803,06-01-2022,Rajouri Garden,Central Secretariat,0.7,141.02,60.47,20,Smart Card,peak
+42860,16-07-2023,  LAXMI NAGAR  ,Rajouri Garden,2.01,14.94,83.55,25,Smart Card,peak
+63370,29-01-2024,Rajiv Chowk,Noida City Centre,0.56,190.9,8.05,17,Single,
+148457,13-11-2023,Noida City Centre,Kashmere Gate,5.39,197.86,42.27,21,Single,weekend
+48956,24-03-2023,Rajiv Chowk,Old Delhi,12.64,101.64,86.24,18,Tourist Card,off-peak
+40169,19-09-2022,  AIIMS  ,Mandi House,4.74,38.04,27.99,17,Smart Card,off-peak
+29763,09-01-2024,Rajiv Chowk,Model Town,3.6,160.73,103.68,23,Single,off-peak
+30970,02-08-2022,   Hauz Khas ,Rajouri Garden,5.57,117.22,29.99,15,Single,maintenance
+27891,15-02-2024,Inderlok,Rajouri Garden,1.58,133.86,115.78,23,Tourist Card,maintenance
+79056,25-06-2024,Noida City Centre,Pragati Maidan,1.62,93.62,20.75,14,Smart Card,weekend
+33987,07-07-2023,Rajiv Chowk,Shivaji Park,10.07,154.87,44.07,21,Tourist Card,maintenance
+32460,23-03-2022,New Delhi,Barakhamba Road,17.93,161.58,111.98,15,Single,off-peak
+69884,13-09-2022,  Mandi House   ,Kirti Nagar,2.42,179.87,21,18,Smart Card,
+70021,04-04-2023,Rajiv Chowk,AIIMS,6.55,121.67,45.17,12,Single,festival
+20950,13-11-2022,Central Secretariat,Inderlok,2.2,62.77,12.64,19,Tourist Card,festival
+72745,15-05-2022,New Delhi,Model Town,4.82,124.35,65.15,14,Smart Card,maintenance
+60397,06-01-2022,Rajiv Chowk,Jasola Vihar,9.51,99.96,44.25,24,Tourist Card,festival
+96197,10-08-2023,Rajouri Garden,Chandni Chowk,5.26,191.84,118.35,18,Tourist Card,peak
+133614,26-11-2024,Kashmere Gate,Barakhamba Road,2.47,191.43,37.7,16,Single,off-peak
+104097,27-11-2024,Noida City Centre,Pragati Maidan,11.47,12.71,61.22,19,Tourist Card,peak
+96279,08-03-2022,New Delhi,Barakhamba Road,11.41,147.1,98.8,20,Single,weekend
+94809,21-05-2023,Hauz Khas,New Delhi,1.79,98.26,77.76,,Tourist Card,off-peak
+24034,07-04-2023,Chandni Chowk,Shivaji Park,4.64,20.05,60.79,27,Smart Card,festival
+68353,04-08-2023,Inderlok,Rajiv Chowk,0.91,38.27,92.2,27,Single,weekend
+39629,09-05-2022, Rajouri Garden ,Noida City Centre,5.53,134.43,119.35,13,Smart Card,weekend
+120647,01-02-2022,   MANDI HOUSE ,Central Secretariat,7.19,195.76,46.11,23,Tourist Card,off-peak
+93534,09-04-2024,Central Secretariat,Kashmere Gate,3.98,40.59,116.48,21,Single,maintenance
+120621,31-01-2023,Inderlok,Old Delhi,5.15,139.5,105.84,18,Smart Card,peak
+38250,30-06-2023,Noida City Centre,Laxmi Nagar,2.02,179.85,102.33,16,Tourist Card,peak
+41110,11-09-2024,Laxmi Nagar,Shivaji Park,2.71,73.14,95.34,21,Tourist Card,
+18815,24-06-2023,New Delhi,AIIMS,4.07,196.54,13.88,15,Single,peak
+46031,07-11-2023,Mandi House,Janakpuri West,1.3,166.76,6.14,26,Smart Card,maintenance
+61824,31-01-2024,Model Town,New Delhi,1.56,186.15,75.47,15,Smart Card,off-peak
+33477,28-07-2022, AIIMS   ,Central Secretariat,1.12,172.92,54.79,21,Tourist Card,maintenance
+26883,09-11-2023,Noida City Centre,Rajiv Chowk,5.53,85.84,113.68,10,Tourist Card,peak
+1060,19-11-2023,Noida City Centre,Rajouri Garden,5.72,187.08,54.07,20,Tourist Card,festival
+140148,03-04-2024,Janakpuri West,Barakhamba Road,13.09,155.18,94.75,17,Smart Card,
+13241,15-09-2022,Jasola Vihar,Pragati Maidan,5.82,66.86,52.34,17,Tourist Card,festival
+95183,12-03-2022,Noida City Centre,Chandni Chowk,2.79,112.76,63.36,18,Tourist Card,festival
+77560,28-05-2022,Chandni Chowk,Shivaji Park,3.13,23.83,60.8,21,Smart Card,festival
+62361,01-02-2024,New Delhi,Kirti Nagar,10.3,76.08,33.06,20,Tourist Card,peak
+5767,04-10-2022,Jasola Vihar,Dilshad Garden,3.98,66.43,94.49,23,Single,maintenance
+53059,22-07-2024,Rajiv Chowk,Kashmere Gate,5.45,136.51,97.81,15,Single,
+26571,04-02-2022,Rajouri Garden,Pragati Maidan,7.93,165.33,60.28,23,Tourist Card,off-peak
+53401,22-11-2024,Rajiv Chowk,Shivaji Park,1.83,86.07,62.15,17,Smart Card,peak
+104488,14-07-2022,Hauz Khas,Shivaji Park,3.8,180.32,30.13,20,Tourist Card,off-peak
+54764,28-01-2024,New Delhi,Kashmere Gate,3.13,197.83,30.73,16,Smart Card,off-peak
+92620,18-10-2024,Mandi House,New Delhi,2.24,99.13,35.39,21,Single,
+87137,30-12-2024,Mandi House,Noida City Centre,3.29,177.35,20.68,16,Smart Card,maintenance
+9664,12-02-2022,Kalkaji Mandir,Punjabi Bagh,4.36,72.05,81.09,24,Tourist Card,peak
+43428,18-08-2024,Kalkaji Mandir,Laxmi Nagar,3.72,199.02,53.06,14,Tourist Card,festival
+89864,19-02-2022,Rajiv Chowk,Pragati Maidan,3.4,139.84,47.75,21,Tourist Card,maintenance
+77102,27-05-2022,Noida City Centre,Kalkaji Mandir,20.26,11.61,101.4,16,Tourist Card,maintenance
+17836,14-09-2022,Janakpuri West,Noida City Centre,4.58,154.94,40.16,20,Smart Card,
+111637,14-06-2022,Laxmi Nagar,AIIMS,1.93,141.73,14.73,7,Smart Card,festival
+66164,06-09-2024,   chandni chowk ,Punjabi Bagh,4.34,27.06,40.04,28,Smart Card,festival
+69239,26-01-2024,Janakpuri West,Punjabi Bagh,0.63,73.55,13.33,18,Smart Card,festival
+133143,30-01-2024,Mandi House,Chandni Chowk,5.14,65.67,117.63,20,Tourist Card,maintenance
+38280,12-02-2022,Dilshad Garden,Rajouri Garden,16.93,49.63,60.82,16,Tourist Card,weekend
+124089,08-09-2022,Inderlok,Rajiv Chowk,0.62,138.79,106.03,22,Single,peak
+37503,27-11-2022,Rajiv Chowk,Rajouri Garden,5.25,180.15,78.91,25,Smart Card,festival
+108792,29-06-2022,Noida City Centre,Punjabi Bagh,2.34,86.85,24.28,19,Single,peak
+68124,30-06-2023,Hauz Khas,AIIMS,3.45,39.97,32.67,19,Single,weekend
+131354,03-07-2024,   Kashmere Gate ,Shivaji Park,4.53,106.77,93.9,18,Single,off-peak
+79606,07-12-2022,Dilshad Garden,Shivaji Park,1.99,128.24,112.8,26,Tourist Card,weekend
+144449,01-06-2023,Chandni Chowk,Model Town,0.82,158.85,23.16,21,Smart Card,peak
+64155,23-09-2022,Kalkaji Mandir,Janakpuri West,1.66,185.8,68.14,27,Tourist Card,maintenance
+131923,31-03-2024, NOIDA CITY CENTRE  ,Jasola Vihar,1.72,78.4,79.24,24,Smart Card,festival
+149073,09-10-2022,   Model Town   ,Rajouri Garden,3.64,77.21,102.31,15,Single,off-peak
+5367,01-11-2023,  Janakpuri West  ,Chandni Chowk,3.05,185.29,5.38,15,Single,maintenance
+44019,14-03-2023, New Delhi ,Pragati Maidan,19.68,49.89,116.19,16,Smart Card,maintenance
+22606,04-12-2024,  kashmere gate   ,Dilshad Garden,3.5,23.89,24.48,12,Tourist Card,off-peak
+99804,30-07-2023,  Chandni Chowk   ,Noida City Centre,5.02,115.64,99.35,31,Tourist Card,peak
+116687,19-08-2023,Noida City Centre,Rajouri Garden,4.48,141.15,43.7,12,Tourist Card,weekend
+53010,26-02-2022,Laxmi Nagar,Dilshad Garden,6.39,56.78,15.32,17,Single,off-peak
+91255,02-08-2023,Rajiv Chowk,Janakpuri West,9.62,10.66,97.33,20,Single,
+87557,03-09-2022,Rajiv Chowk,Kirti Nagar,5.67,145.19,34.58,22,Tourist Card,festival
+95979,07-10-2022,   Janakpuri West ,Rajiv Chowk,5.82,80.12,28.9,24,Tourist Card,peak
+138611,13-06-2022,Rajouri Garden,Old Delhi,3.43,169.75,118.07,20,Single,festival
+92593,16-03-2023, Jasola Vihar   ,Noida City Centre,2.11,160.09,54.93,14,Single,off-peak
+19316,01-12-2024,   janakpuri west   ,Netaji Subhash Place,1.01,44.85,43.89,23,Smart Card,peak
+64769,12-12-2022,New Delhi,Kalkaji Mandir,12.5,138.14,7.95,25,Smart Card,peak
+26131,08-01-2023,New Delhi,Mandi House,6.27,152.87,98.16,18,Tourist Card,festival
+68284,18-03-2022,Rajiv Chowk,Barakhamba Road,7.47,93.41,30.5,20,Single,maintenance
+49881,27-12-2024,Rajiv Chowk,Inderlok,4.05,192.66,70.12,19,Single,
+113442,25-12-2023,  Noida City Centre  ,Central Secretariat,23.51,171.92,67.53,28,Tourist Card,peak
+5762,22-10-2024,Inderlok,Punjabi Bagh,2.85,112.81,10.1,20,Tourist Card,peak
+133337,25-01-2022,Hauz Khas,Jasola Vihar,6.64,150.3,89.84,15,Tourist Card,maintenance
+108458,22-05-2022,Rajiv Chowk,Noida City Centre,3.12,88.55,91.38,22,Tourist Card,off-peak
+79102,27-02-2023,Rajiv Chowk,Kashmere Gate,1.36,186.14,17.39,21,Smart Card,off-peak
+25879,04-08-2023,Kalkaji Mandir,Model Town,0.68,53.37,41.22,21,Tourist Card,maintenance
+79928,15-03-2024,Rajiv Chowk,Model Town,13.44,160.45,40.34,12,Tourist Card,festival
+145919,01-04-2023, AIIMS   ,Inderlok,1.55,127.13,72.35,16,Tourist Card,maintenance
+119123,30-08-2024,Rajiv Chowk,Dilshad Garden,4.5,69.58,54.11,24,Smart Card,maintenance
+45219,28-06-2023,Noida City Centre,Rajiv Chowk,1.71,49.46,55.52,12,Tourist Card,
+123646,01-06-2023,Rajiv Chowk,Jasola Vihar,6.73,111.18,106.43,25,Single,peak
+123559,26-12-2023,Dilshad Garden,Laxmi Nagar,0.63,145.36,11.54,17,Single,weekend
+105082,15-02-2024,  NOIDA CITY CENTRE ,Kashmere Gate,6.27,148.15,117.94,19,Smart Card,peak
+142772,31-01-2024,Mandi House,Punjabi Bagh,8.22,92.07,35.49,19,Single,off-peak
+34591,24-05-2022,   noida city centre ,Dilshad Garden,0.8,109.39,92.85,15,Tourist Card,off-peak
+127166,09-05-2024,Rajiv Chowk,Dilshad Garden,2.25,15.69,34.95,18,Single,weekend
+93935,08-10-2023,Noida City Centre,Kalkaji Mandir,16.75,51.97,67.55,24,Single,maintenance
+110323,01-01-2022,Noida City Centre,Rajouri Garden,4.73,72.06,36.1,20,Single,
+133713,27-01-2022,Noida City Centre,Hauz Khas,4.88,56.99,22.31,26,Single,weekend
+100114,04-08-2024,Inderlok,Rajiv Chowk,2.47,23.64,24.69,17,Smart Card,maintenance
+35042,11-02-2024,   Kashmere Gate  ,AIIMS,7.66,87.25,118.03,24,Smart Card,
+139079,22-09-2022,Inderlok,Pragati Maidan,1.04,18.46,80.41,19,Smart Card,weekend
+106960,08-11-2024,Noida City Centre,AIIMS,3.54,69.34,54.2,29,Tourist Card,weekend
+129112,06-04-2022,Kashmere Gate,Janakpuri West,7.58,99.13,28.75,19,Single,peak
+57245,20-04-2022,  Central Secretariat   ,Rajouri Garden,0.65,87.82,31.91,,Tourist Card,peak
+97619,26-03-2022,Kalkaji Mandir,AIIMS,3.34,193.67,67.79,18,Smart Card,festival
+7768,18-02-2023,Kashmere Gate,Shivaji Park,1.93,119.4,66.43,18,Smart Card,
+27830,13-07-2022,  KASHMERE GATE  ,Punjabi Bagh,6.6,101.02,106.38,25,Smart Card,festival
+23531,03-01-2022,   KASHMERE GATE   ,Chandni Chowk,7.98,189.07,31,16,Single,maintenance
+17841,31-07-2024,Rajiv Chowk,Rajiv Chowk,14.66,181.67,6.86,24,Smart Card,weekend
+1813,18-10-2022,Laxmi Nagar,New Delhi,6.75,173.98,16.27,23,Tourist Card,festival
+31466,01-09-2023,Laxmi Nagar,Mandi House,0.68,158.89,115.2,24,Smart Card,off-peak
+75645,25-01-2022,Rajouri Garden,Kashmere Gate,1.36,172.46,42.97,15,Smart Card,
+138735,26-06-2023,New Delhi,Kirti Nagar,11.42,78.14,15.45,32,Smart Card,festival
+68258,12-02-2024,Noida City Centre,Noida City Centre,2.48,34.24,15.41,17,Tourist Card,maintenance
+107675,22-01-2024,Kashmere Gate,Kalkaji Mandir,16,103.1,88.71,20,Smart Card,
+7256,28-08-2023,Noida City Centre,Punjabi Bagh,4.07,85.14,48.67,21,Smart Card,maintenance
+9457,21-02-2023,Mandi House,Kirti Nagar,2.61,165.8,67.63,21,Tourist Card,
+214,03-09-2022,Noida City Centre,Inderlok,8.59,144.28,39.76,16,Smart Card,weekend
+50197,07-02-2022,Inderlok,Model Town,11.2,33.81,97.58,13,Smart Card,maintenance
+40209,20-12-2024,Laxmi Nagar,Chandni Chowk,1.91,14.85,76.13,23,Tourist Card,weekend
+144279,14-05-2022,  laxmi nagar ,Mandi House,8.43,133.65,111.87,14,Smart Card,festival
+114574,28-12-2023,Rajiv Chowk,Inderlok,7.18,114.65,36.17,13,Tourist Card,
+3470,05-07-2022,Mandi House,Kalkaji Mandir,4.39,126.52,80.72,19,Single,
+70365,18-05-2023,Chandni Chowk,Kirti Nagar,7.2,59.74,102.11,13,Tourist Card,peak
